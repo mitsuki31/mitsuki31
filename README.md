@@ -1,4 +1,4 @@
-## Hi:wave:, I'm Ryuu Mitsuki:smile:
+## Hi:wave:, I'm Ryuu Mitsuki:grinning:
 ### Self-taught:fire: programmer from Indonesia:indonesia:
 
 - :herb: I'm currently learning ***Java*** and ***Data Structure and Analysis***
@@ -7,25 +7,35 @@
 ---
 
 ## **:bar_chart: My Statistics**
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&theme=tokyonight"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true" />
+<picture id="stats">
+    <source 
+            srcset="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&theme=tokyonight"
+            media="(prefers-color-scheme: dark)"
+    />
+    <source
+            srcset="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuki31&layout=compact&hide=makefile&theme=tokyonight)
+<picture id="top-langs">
+    <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuki31&layout=compact&hide=makefile&theme=tokyonight"
+            media="(prefers-color-scheme: dark)"
+    />
+    <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuki31&layout=compact&hide=makefile"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuki31&layout=compact&hide=makefile" />
+</picture>
 
 <!--
 ![Snake](https://github.com/mitsuki31/mitsuki31/blob/output/github-contribution-grid-snake.svg)
 -->
 
-## **Contact Me**
+## **:iphone: Contact Me**
 <div id="socials" align="left">
     <a href="https://twitter.com/ryuumitsuki31">
         <img
@@ -36,7 +46,7 @@
 </div>
 
 
-## Technical Skills
+## **:gear: Technical Skills**
 <div id="skills" align="left">
     <!-- Python -->
     <a>

@@ -1,4 +1,4 @@
-## Hi:wave:, I'm Ryuu Mitsuki:grinning:
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Ryuu Mitsuki:grinning:
 ### Self-taught:fire: programmer from Indonesia:indonesia:
 
 - :herb: I'm currently learning ***Java*** and ***Data Structure and Analysis***

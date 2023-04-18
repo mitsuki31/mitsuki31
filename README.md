@@ -1,3 +1,8 @@
+<div id="header-badges">
+    <!-- Profile Viewers -->
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue&label=PROFILE+VIEWS">
+</div>
+
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Ryuu Mitsuki:grinning:
 ### Self-taught:fire: programmer from Indonesia:indonesia:
 
@@ -9,14 +14,14 @@
 ## **:bar_chart: My Statistics**
 <picture id="stats">
     <source 
-            srcset="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&theme=tokyonight"
+            srcset="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&hide=stars&theme=tokyonight"
             media="(prefers-color-scheme: dark)"
     />
     <source
-            srcset="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true"
+            srcset="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&hide=stars"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&hide=stars" />
 </picture>
 
 <picture id="top-langs">

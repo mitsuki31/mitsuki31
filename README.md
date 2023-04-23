@@ -39,6 +39,23 @@
 
 ![Snake](https://github.com/mitsuki31/mitsuki31/blob/output/github-contribution-grid-snake.svg)
 
+---
+
+## :zap: Recent Activity
+<!--START_SECTION:activity-->
+
+
+
+
+
+
+
+
+
+
+<!--END_SECTION:activity-->
+
+---
 
 ## **:iphone: Contact Me**
 <div id="socials" align="left">

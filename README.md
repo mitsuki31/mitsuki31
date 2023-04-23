@@ -43,16 +43,6 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
 <!--END_SECTION:activity-->
 
 ---

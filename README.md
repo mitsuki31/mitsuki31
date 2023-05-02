@@ -12,6 +12,8 @@
 ---
 
 ## **:bar_chart: My Statistics**
+\*Top languages statistics on maintenance, I guess :/
+<!--
 <picture id="stats">
     <source 
             srcset="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&hide=stars&theme=tokyonight"
@@ -35,13 +37,15 @@
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuki31&layout=compact&hide=makefile" />
 </picture>
-
+-->
 
 ![Snake](https://github.com/mitsuki31/mitsuki31/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## :zap: Recent Activity
+<details>
+<summary><h2>:zap: Recent Activity</h2></summary>
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#28](https://github.com/mitsuki31/jmatrix/pull/28) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
 2. 💪 Opened PR [#28](https://github.com/mitsuki31/jmatrix/pull/28) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
@@ -54,6 +58,7 @@
 9. 💪 Opened PR [#25](https://github.com/mitsuki31/jmatrix/pull/25) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
 10. 🎉 Merged PR [#24](https://github.com/mitsuki31/jmatrix/pull/24) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
 <!--END_SECTION:activity-->
+</details>
 
 ---
 

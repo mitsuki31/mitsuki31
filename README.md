@@ -1,45 +1,43 @@
 <div id="header-badges">
     <!-- Profile Viewers -->
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue&label=PROFILE+VIEWS">
+    <img src="https://komarev.com/ghpvc/?username=mitsuki31&color=blue&label=PROFILE+VIEWS">
 </div>
 
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Ryuu Mitsuki:grinning:
 ### Self-taught:fire: programmer from Indonesia:indonesia:
 
-- :herb: I'm currently learning ***Java*** and ***Data Structure and Analysis***
+- :herb: I'm currently learning ***"Java"*** and ***"Data Structures & Analysis"***
 - :zap: Fun fact: Hobby watching some anime & read manga
 
 ---
 
 ## **:bar_chart: My Statistics**
-\*Top languages statistics on maintenance, I guess :/
-<!--
+
 <picture id="stats">
     <source 
-            srcset="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&hide=stars&theme=tokyonight"
+            srcset="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars"
             media="(prefers-color-scheme: dark)"
     />
     <source
-            srcset="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&hide=stars"
+            srcset="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&count_private=true&include_all_commits=true&hide=stars"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&hide=stars" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&count_private=true&include_all_commits=true&hide=stars" />
 </picture>
 
 <picture id="top-langs">
     <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuki31&layout=compact&hide=makefile&theme=tokyonight"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuki31&layout=compact&theme=tokyonight&count_private=true&langs_count=8"
             media="(prefers-color-scheme: dark)"
     />
     <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuki31&layout=compact&hide=makefile"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuki31&layout=compact&count_private=true&langs_count=8"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuki31&layout=compact&hide=makefile" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuki31&layout=compact&langs_count=8&count_private=true" />
 </picture>
--->
 
-![Snake](https://github.com/mitsuki31/mitsuki31/blob/output/github-contribution-grid-snake.svg)
+[![Snake](https://github.com/mitsuki31/mitsuki31/blob/output/github-contribution-grid-snake.svg)](https://github.com/mitsuki31)
 
 ---
 
@@ -47,16 +45,16 @@
 <summary><h2>:zap: Recent Activity</h2></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/mitsuki31/jmatrix/pull/31) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-2. 💪 Opened PR [#31](https://github.com/mitsuki31/jmatrix/pull/31) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-3. 🎉 Merged PR [#29](https://github.com/mitsuki31/jmatrix/pull/29) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-4. 🎉 Merged PR [#30](https://github.com/mitsuki31/jmatrix/pull/30) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-5. 💪 Opened PR [#30](https://github.com/mitsuki31/jmatrix/pull/30) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-6. 💪 Opened PR [#29](https://github.com/mitsuki31/jmatrix/pull/29) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-7. 🎉 Merged PR [#28](https://github.com/mitsuki31/jmatrix/pull/28) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-8. 💪 Opened PR [#28](https://github.com/mitsuki31/jmatrix/pull/28) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-9. 🎉 Merged PR [#27](https://github.com/mitsuki31/jmatrix/pull/27) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-10. 💪 Opened PR [#27](https://github.com/mitsuki31/jmatrix/pull/27) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+1. 🎉 Merged PR [#29](https://github.com/mitsuki31/jmatrix/pull/29) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+2. 🎉 Merged PR [#30](https://github.com/mitsuki31/jmatrix/pull/30) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+3. 💪 Opened PR [#30](https://github.com/mitsuki31/jmatrix/pull/30) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+4. 💪 Opened PR [#29](https://github.com/mitsuki31/jmatrix/pull/29) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+5. 🎉 Merged PR [#28](https://github.com/mitsuki31/jmatrix/pull/28) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+6. 💪 Opened PR [#28](https://github.com/mitsuki31/jmatrix/pull/28) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+7. 🎉 Merged PR [#27](https://github.com/mitsuki31/jmatrix/pull/27) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+8. 💪 Opened PR [#27](https://github.com/mitsuki31/jmatrix/pull/27) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+9. 🎉 Merged PR [#26](https://github.com/mitsuki31/jmatrix/pull/26) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+10. 🗣 Commented on [#26](https://github.com/mitsuki31/jmatrix/issues/26) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
 <!--END_SECTION:activity-->
 </details>
 

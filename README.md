@@ -45,7 +45,7 @@
 <summary><h2>:zap: Recent Activity</h2></summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0-beta.6 (HOTFIX)](https://github.com/v1.0.0-beta.6 (HOTFIX)) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+1. 💪 Opened PR [#35](https://github.com/mitsuki31/jmatrix/pull/35) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
 2. 🎉 Merged PR [#34](https://github.com/mitsuki31/jmatrix/pull/34) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
 3. 💪 Opened PR [#34](https://github.com/mitsuki31/jmatrix/pull/34) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
 4. ❗️ Closed issue [#32](https://github.com/mitsuki31/jmatrix/issues/32) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)

@@ -45,12 +45,12 @@
 <summary><h2>:zap: Recent Activity</h2></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/mitsuki31/jmatrix/pull/36) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-2. 💪 Opened PR [#36](https://github.com/mitsuki31/jmatrix/pull/36) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-3. 🎉 Merged PR [#35](https://github.com/mitsuki31/jmatrix/pull/35) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-4. 💪 Opened PR [#35](https://github.com/mitsuki31/jmatrix/pull/35) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-5. ❗️ Opened issue [#33](https://github.com/mitsuki31/jmatrix/issues/33) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-6. ❗️ Opened issue [#32](https://github.com/mitsuki31/jmatrix/issues/32) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+1. 🎉 Merged PR [#37](https://github.com/mitsuki31/jmatrix/pull/37) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+2. 💪 Opened PR [#37](https://github.com/mitsuki31/jmatrix/pull/37) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+3. 🎉 Merged PR [#36](https://github.com/mitsuki31/jmatrix/pull/36) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+4. 💪 Opened PR [#36](https://github.com/mitsuki31/jmatrix/pull/36) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+5. 🎉 Merged PR [#35](https://github.com/mitsuki31/jmatrix/pull/35) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+6. 💪 Opened PR [#35](https://github.com/mitsuki31/jmatrix/pull/35) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
 7. 🎉 Merged PR [#31](https://github.com/mitsuki31/jmatrix/pull/31) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
 8. 💪 Opened PR [#31](https://github.com/mitsuki31/jmatrix/pull/31) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
 9. 🎉 Merged PR [#29](https://github.com/mitsuki31/jmatrix/pull/29) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)

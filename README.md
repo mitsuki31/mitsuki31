@@ -15,26 +15,26 @@
 
 <picture id="stats">
     <source 
-            srcset="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars"
+            srcset="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars&rank_icon=github"
             media="(prefers-color-scheme: dark)"
     />
     <source
-            srcset="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&count_private=true&include_all_commits=true&hide=stars"
+            srcset="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&count_private=true&include_all_commits=true&hide=stars&rank_icon=github"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&count_private=true&include_all_commits=true&hide=stars" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&count_private=true&include_all_commits=true&hide=stars&rank_icon=github" />
 </picture>
 
 <picture id="top-langs">
     <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuki31&layout=compact&theme=tokyonight&count_private=true&langs_count=8"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuki31&layout=donut&theme=tokyonight&count_private=true&langs_count=8"
             media="(prefers-color-scheme: dark)"
     />
     <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuki31&layout=compact&count_private=true&langs_count=8"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuki31&layout=donut&count_private=true&langs_count=8"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuki31&layout=compact&langs_count=8&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuki31&layout=donut&langs_count=8&count_private=true" />
 </picture>
 
 [![Snake](https://github.com/mitsuki31/mitsuki31/blob/output/github-contribution-grid-snake.svg)](https://github.com/mitsuki31)

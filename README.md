@@ -45,16 +45,16 @@
 <summary><h2>:zap: Recent Activity</h2></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/mitsuki31/jmatrix/issues/57) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-2. 🗣 Commented on [#57](https://github.com/mitsuki31/jmatrix/issues/57) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-3. 💪 Opened PR [#57](https://github.com/mitsuki31/jmatrix/pull/57) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-4. 🗣 Commented on [#55](https://github.com/mitsuki31/jmatrix/issues/55) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-5. 🎉 Merged PR [#55](https://github.com/mitsuki31/jmatrix/pull/55) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-6. 💪 Opened PR [#55](https://github.com/mitsuki31/jmatrix/pull/55) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-7. 🎉 Merged PR [#54](https://github.com/mitsuki31/jmatrix/pull/54) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-8. 💪 Opened PR [#54](https://github.com/mitsuki31/jmatrix/pull/54) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-9. 🚀 Published release [v0.1.5](https://github.com/v0.1.5) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
-10. 🎉 Merged PR [#2](https://github.com/mitsuki31/conio_lt/pull/2) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
+1. 🚀 Published release [v1.1.0](https://github.com/v1.1.0) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+2. 🎉 Merged PR [#57](https://github.com/mitsuki31/jmatrix/pull/57) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+3. 🗣 Commented on [#57](https://github.com/mitsuki31/jmatrix/issues/57) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+4. 🗣 Commented on [#57](https://github.com/mitsuki31/jmatrix/issues/57) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+5. 💪 Opened PR [#57](https://github.com/mitsuki31/jmatrix/pull/57) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+6. 🗣 Commented on [#55](https://github.com/mitsuki31/jmatrix/issues/55) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+7. 🎉 Merged PR [#55](https://github.com/mitsuki31/jmatrix/pull/55) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+8. 💪 Opened PR [#55](https://github.com/mitsuki31/jmatrix/pull/55) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+9. 🎉 Merged PR [#54](https://github.com/mitsuki31/jmatrix/pull/54) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+10. 💪 Opened PR [#54](https://github.com/mitsuki31/jmatrix/pull/54) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
 <!--END_SECTION:activity-->
 </details>
 

@@ -15,14 +15,14 @@
 
 <picture id="stats">
     <source 
-            srcset="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&theme=tokyonight&include_all_commits=true&hide=stars&rank_icon=github"
+            srcset="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&theme=tokyonight&include_all_commits=true&show_private=true&hide=stars&rank_icon=github"
             media="(prefers-color-scheme: dark)"
     />
     <source
-            srcset="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&include_all_commits=true&hide=stars&rank_icon=github"
+            srcset="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&include_all_commits=true&show_private=true&hide=stars&rank_icon=github"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&include_all_commits=true&hide=stars&rank_icon=github" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&include_all_commits=true&show_private=true&hide=stars&rank_icon=github" />
 </picture>
 
 <picture id="top-langs">

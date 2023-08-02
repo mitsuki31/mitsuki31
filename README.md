@@ -37,7 +37,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuki31&layout=donut&langs_count=8&count_private=true" />
 </picture>
 
+<!--
 [![Snake](https://github.com/mitsuki31/mitsuki31/blob/output/github-contribution-grid-snake.svg)](https://github.com/mitsuki31)
+-->
 
 ---
 

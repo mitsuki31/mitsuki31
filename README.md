@@ -47,12 +47,12 @@
 <summary><h2>:zap: Recent Activity</h2></summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.2.0](https://github.com/mitsuki31/jmatrix/releases/tag/v1.2.0) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-2. 🎉 Merged PR [#65](https://github.com/mitsuki31/jmatrix/pull/65) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-3. 💪 Opened PR [#65](https://github.com/mitsuki31/jmatrix/pull/65) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-4. 🎉 Merged PR [#64](https://github.com/mitsuki31/jmatrix/pull/64) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-5. 💪 Opened PR [#64](https://github.com/mitsuki31/jmatrix/pull/64) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-6. ❗ Opened issue [#63](https://github.com/mitsuki31/jmatrix/issues/63) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+1. 💪 Opened PR [#66](https://github.com/mitsuki31/jmatrix/pull/66) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+2. 🚀 Published release [v1.2.0](https://github.com/mitsuki31/jmatrix/releases/tag/v1.2.0) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+3. 🎉 Merged PR [#65](https://github.com/mitsuki31/jmatrix/pull/65) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+4. 💪 Opened PR [#65](https://github.com/mitsuki31/jmatrix/pull/65) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+5. 🎉 Merged PR [#64](https://github.com/mitsuki31/jmatrix/pull/64) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+6. 💪 Opened PR [#64](https://github.com/mitsuki31/jmatrix/pull/64) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
 7. 🎉 Merged PR [#62](https://github.com/mitsuki31/jmatrix/pull/62) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
 8. 💪 Opened PR [#62](https://github.com/mitsuki31/jmatrix/pull/62) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
 9. ❗ Opened issue [#58](https://github.com/mitsuki31/jmatrix/issues/58) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)

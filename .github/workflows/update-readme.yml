@@ -10,10 +10,23 @@ jobs:
     runs-on: 'ubuntu-latest'
     name: 'Update README with recent activity'
 
+    permissions:
+      contents: write
+
+    strategy:
+      fail-fast: false
+
+    env:
+      committer: mitsuki31  # default is github-actions[bot]
+      committer-email: '117973493+mitsuki31@users.noreply.github.com'
+      max-lines: 10
+
     steps:
       - uses: actions/checkout@v2
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_ACTION_TOKEN }}
         with:
-          MAX_LINES: 10
+          MAX_LINES: ${{ env.max-lines }}
+          COMMIT_NAME: ${{ env.committer }}
+          COMMIT_EMAIL: ${{ env.committer-email }}

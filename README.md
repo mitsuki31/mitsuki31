@@ -2,27 +2,25 @@
     <!-- Profile Viewers -->
     <img src="https://komarev.com/ghpvc/?username=mitsuki31&color=blue&label=PROFILE+VIEWS">
 </div>
+<br/>
 
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Ryuu Mitsuki:grinning:
-### Self-taught:fire: programmer from Indonesia:indonesia:
-
-- :herb: I'm currently learning ***"Java"*** and ***"Kotlin"***
-- :zap: Fun fact: Hobby watching some anime & read manga
+Self-taught programmer from **Indonesia** 🇮🇩  
+Kind of like to **back-end** programming, and almost often build a command-line application in spare time.
 
 ---
 
-## **:bar_chart: My Statistics**
+## 🔭 My Statistics
 
 <picture id="stats">
     <source 
-            srcset="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&theme=tokyonight&include_all_commits=true&show_private=falsee&hide=stars&rank_icon=github"
+            srcset="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&theme=tokyonight&include_all_commits=true&show_private=falsee&hide=stars"
             media="(prefers-color-scheme: dark)"
     />
     <source
-            srcset="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&include_all_commits=true&show_private=false&hide=stars&rank_icon=github"
+            srcset="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&include_all_commits=true&show_private=false&hide=stars"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&include_all_commits=true&show_private=false&hide=stars&rank_icon=github" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&include_all_commits=true&show_private=false&hide=stars" />
 </picture>
 
 <picture id="top-langs">
@@ -43,8 +41,7 @@
 
 ---
 
-<details>
-<summary><h2>:zap: Recent Activity</h2></summary>
+## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#77](https://github.com/mitsuki31/jmatrix/pull/77) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
@@ -58,11 +55,10 @@
 9. ❗ Opened issue [#58](https://github.com/mitsuki31/jmatrix/issues/58) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
 10. 🚀 Published release [v1.1.0](https://github.com/mitsuki31/jmatrix/releases/tag/v1.1.0) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
 <!--END_SECTION:activity-->
-</details>
 
 ---
 
-## **:iphone: Contact Me**
+## 📞 Contacts
 <div id="socials" align="left">
     <a href="https://twitter.com/ryuumitsuki31">
         <img
@@ -73,7 +69,7 @@
 </div>
 
 
-## **:gear: Technical Skills**
+## 👾 Technical Skills
 <div id="skills" align="left">
     <!-- Python -->
     <a>
@@ -94,13 +90,6 @@
         <img
              src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
              width="78px"
-        >
-    </a>
-    <!-- Ruby -->
-    <a>
-        <img
-             src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"
-             width="80px"
         >
     </a>
 </div>

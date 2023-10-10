@@ -1,10 +1,8 @@
-<div id="header-badges">
-    <!-- Profile Viewers -->
-    <img src="https://komarev.com/ghpvc/?username=mitsuki31&color=blue&label=PROFILE+VIEWS">
-</div>
-<br/>
+<!-- Header Badges -->
+[![Profile Views](https://komarev.com/ghpvc/?username=mitsuki31&color=blue&label=PROFILE+VIEWS)](https://github.com/mitsuki31)
+[![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fryuumitsuki31)](https://twitter.com/ryuumitsuki31)
 
-## 👋 Hi, There.
+## 👋 Hi, There
 
 I'm a self-taught programmer from **Indonesia** 🇮🇩, and also a vocational school student.  
 There's _nothing special_ about me. In my spare time, I like to read some materials about programming, and make some small projects to learn.
@@ -61,16 +59,6 @@ Currently trying to get into front-end programming🔥, as I used hate it😅.
 <!--END_SECTION:activity-->
 
 ---
-
-## 📞 Contacts
-<div id="socials" align="left">
-    <a href="https://twitter.com/ryuumitsuki31">
-        <img
-             src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-             width="100px"
-        >
-    </a>
-</div>
 
 
 ## 👾 Technical Skills

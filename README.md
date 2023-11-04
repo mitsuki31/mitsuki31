@@ -27,14 +27,14 @@ Currently trying to get into front-end programming🔥, as I used hate it😅.
 
 <picture id="top-langs">
     <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuki31&layout=donut&theme=tokyonight&count_private=true&langs_count=8"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuki31&layout=donut&theme=tokyonight&count_private=true&langs_count=10"
             media="(prefers-color-scheme: dark)"
     />
     <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuki31&layout=donut&count_private=true&langs_count=8"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuki31&layout=donut&count_private=true&langs_count=10"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuki31&layout=donut&langs_count=8&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuki31&layout=donut&langs_count=10&count_private=true" />
 </picture>
 
 <!--

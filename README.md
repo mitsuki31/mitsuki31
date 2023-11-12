@@ -46,8 +46,8 @@ Currently trying to get into front-end programming🔥, as I used hate it😅.
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/mitsuki31/jmatrix/pull/20#issuecomment-1728012963) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-2. 🗣 Commented on [#71](https://github.com/mitsuki31/jmatrix/pull/71#issuecomment-1706399447) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+1. 🎉 Merged PR [#1](https://github.com/mitsuki31/ytmp3-js/pull/1) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+2. 💪 Opened PR [#1](https://github.com/mitsuki31/ytmp3-js/pull/1) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
 3. 🗣 Commented on [#76](https://github.com/mitsuki31/jmatrix/pull/76#issuecomment-1705323002) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
 4. 🎉 Merged PR [#74](https://github.com/mitsuki31/jmatrix/pull/74) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
 5. 💪 Opened PR [#74](https://github.com/mitsuki31/jmatrix/pull/74) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)

@@ -46,16 +46,16 @@ Currently trying to get into front-end programming🔥, as I used hate it😅.
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/mitsuki31/ytmp3-js/pull/4) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-2. 💪 Opened PR [#4](https://github.com/mitsuki31/ytmp3-js/pull/4) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-3. 🎉 Merged PR [#3](https://github.com/mitsuki31/ytmp3-js/pull/3) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-4. 🎉 Merged PR [#2](https://github.com/mitsuki31/ytmp3-js/pull/2) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-5. 💪 Opened PR [#3](https://github.com/mitsuki31/ytmp3-js/pull/3) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-6. 💪 Opened PR [#2](https://github.com/mitsuki31/ytmp3-js/pull/2) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-7. 🎉 Merged PR [#1](https://github.com/mitsuki31/ytmp3-js/pull/1) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-8. 💪 Opened PR [#1](https://github.com/mitsuki31/ytmp3-js/pull/1) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-9. ❗ Opened issue [#58](https://github.com/mitsuki31/jmatrix/issues/58) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-10. 🚀 Published release [v1.1.0](https://github.com/mitsuki31/jmatrix/releases/tag/v1.1.0) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+1. 🎉 Merged PR [#5](https://github.com/mitsuki31/ytmp3-js/pull/5) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+2. 💪 Opened PR [#5](https://github.com/mitsuki31/ytmp3-js/pull/5) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+3. 🎉 Merged PR [#4](https://github.com/mitsuki31/ytmp3-js/pull/4) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+4. 💪 Opened PR [#4](https://github.com/mitsuki31/ytmp3-js/pull/4) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+5. 🎉 Merged PR [#3](https://github.com/mitsuki31/ytmp3-js/pull/3) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+6. 🎉 Merged PR [#2](https://github.com/mitsuki31/ytmp3-js/pull/2) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+7. 💪 Opened PR [#3](https://github.com/mitsuki31/ytmp3-js/pull/3) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+8. 💪 Opened PR [#2](https://github.com/mitsuki31/ytmp3-js/pull/2) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+9. 🎉 Merged PR [#1](https://github.com/mitsuki31/ytmp3-js/pull/1) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+10. 💪 Opened PR [#1](https://github.com/mitsuki31/ytmp3-js/pull/1) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
 <!--END_SECTION:activity-->
 
 ---

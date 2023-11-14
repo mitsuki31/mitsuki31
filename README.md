@@ -46,12 +46,12 @@ Currently trying to get into front-end programming🔥, as I used hate it😅.
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/mitsuki31/ytmp3-js/pull/3) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-2. 💪 Opened PR [#2](https://github.com/mitsuki31/ytmp3-js/pull/2) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-3. 🎉 Merged PR [#1](https://github.com/mitsuki31/ytmp3-js/pull/1) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-4. 💪 Opened PR [#1](https://github.com/mitsuki31/ytmp3-js/pull/1) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-5. 💪 Opened PR [#74](https://github.com/mitsuki31/jmatrix/pull/74) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-6. 🎉 Merged PR [#66](https://github.com/mitsuki31/jmatrix/pull/66) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+1. 🎉 Merged PR [#3](https://github.com/mitsuki31/ytmp3-js/pull/3) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+2. 🎉 Merged PR [#2](https://github.com/mitsuki31/ytmp3-js/pull/2) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+3. 💪 Opened PR [#3](https://github.com/mitsuki31/ytmp3-js/pull/3) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+4. 💪 Opened PR [#2](https://github.com/mitsuki31/ytmp3-js/pull/2) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+5. 🎉 Merged PR [#1](https://github.com/mitsuki31/ytmp3-js/pull/1) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+6. 💪 Opened PR [#1](https://github.com/mitsuki31/ytmp3-js/pull/1) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
 7. 🎉 Merged PR [#67](https://github.com/mitsuki31/jmatrix/pull/67) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
 8. 💪 Opened PR [#64](https://github.com/mitsuki31/jmatrix/pull/64) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
 9. ❗ Opened issue [#58](https://github.com/mitsuki31/jmatrix/issues/58) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)

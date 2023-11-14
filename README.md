@@ -46,10 +46,10 @@ Currently trying to get into front-end programming🔥, as I used hate it😅.
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mitsuki31/ytmp3-js/pull/1) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-2. 💪 Opened PR [#1](https://github.com/mitsuki31/ytmp3-js/pull/1) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-3. 🗣 Commented on [#76](https://github.com/mitsuki31/jmatrix/pull/76#issuecomment-1705323002) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-4. 🎉 Merged PR [#74](https://github.com/mitsuki31/jmatrix/pull/74) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+1. 💪 Opened PR [#3](https://github.com/mitsuki31/ytmp3-js/pull/3) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+2. 💪 Opened PR [#2](https://github.com/mitsuki31/ytmp3-js/pull/2) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+3. 🎉 Merged PR [#1](https://github.com/mitsuki31/ytmp3-js/pull/1) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+4. 💪 Opened PR [#1](https://github.com/mitsuki31/ytmp3-js/pull/1) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
 5. 💪 Opened PR [#74](https://github.com/mitsuki31/jmatrix/pull/74) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
 6. 🎉 Merged PR [#66](https://github.com/mitsuki31/jmatrix/pull/66) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
 7. 🎉 Merged PR [#67](https://github.com/mitsuki31/jmatrix/pull/67) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)

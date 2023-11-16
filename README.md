@@ -1,6 +1,6 @@
 <!-- Header Badges -->
 [![Profile Views](https://komarev.com/ghpvc/?username=mitsuki31&color=blue&label=PROFILE+VIEWS)](https://github.com/mitsuki31)
-[![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fryuumitsuki31)](https://twitter.com/ryuumitsuki31)
+[![Follow](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fryuumitsuki31)](https://twitter.com/ryuumitsuki31)
 
 ## 👋 Hi, There
 
@@ -37,6 +37,18 @@ Currently trying to get into front-end programming🔥, as I used hate it😅.
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuki31&layout=donut&langs_count=10&count_private=true" />
 </picture>
 
+<picture id="profile-summary">
+    <source
+            srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mitsuki31&theme=tokyonight"
+            media="(prefers-color-scheme: dark)"
+    />
+    <source
+            srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mitsuki31&theme=github"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mitsuki31" />
+</picture>
+
 <!--
 [![Snake](https://github.com/mitsuki31/mitsuki31/blob/output/github-contribution-grid-snake.svg)](https://github.com/mitsuki31)
 -->
@@ -64,24 +76,33 @@ Currently trying to get into front-end programming🔥, as I used hate it😅.
 ## 👾 Technical Skills
 <div id="skills" align="left">
     <!-- Python -->
-    <a>
-        <img
-             src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
-             width="100px"
-        >
-    </a>
+    <img
+      src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
+      width="99px"
+    >
+    <!-- C -->
+    <img
+      src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
+      width="53px"
+    >
     <!-- C++ -->
-    <a>
-        <img
-             src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
-             width="73px"
-        >
-    </a>
+    <img
+      src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
+      width="73px"
+    >
     <!-- Java -->
-    <a>
-        <img
-             src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
-             width="78px"
-        >
-    </a>
+    <img
+      src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
+      width="78px"
+    >
+    <!-- JavaScript -->
+    <img
+      src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+      width="128px"
+    >
+    <!-- Node.js -->
+    <img
+      src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+      width="100px"
+    >
 </div>

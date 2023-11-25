@@ -58,12 +58,12 @@ Currently trying to get into front-end programming🔥, as I used hate it😅.
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/mitsuki31/temppath/pull/1) in [mitsuki31/temppath](https://github.com/mitsuki31/temppath)
-2. 🚀 Published release [0.1.0](https://github.com/mitsuki31/temppath/releases/tag/v0.1.0) in [mitsuki31/temppath](https://github.com/mitsuki31/temppath)
-3. 🚀 Published release [0.2.0](https://github.com/mitsuki31/ytmp3-js/releases/tag/v0.2.0) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-4. 🎉 Merged PR [#6](https://github.com/mitsuki31/ytmp3-js/pull/6) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-5. 💪 Opened PR [#6](https://github.com/mitsuki31/ytmp3-js/pull/6) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-6. 💪 Opened PR [#5](https://github.com/mitsuki31/ytmp3-js/pull/5) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+1. 🎉 Merged PR [#1](https://github.com/mitsuki31/temppath/pull/1) in [mitsuki31/temppath](https://github.com/mitsuki31/temppath)
+2. 💪 Opened PR [#1](https://github.com/mitsuki31/temppath/pull/1) in [mitsuki31/temppath](https://github.com/mitsuki31/temppath)
+3. 🚀 Published release [0.1.0](https://github.com/mitsuki31/temppath/releases/tag/v0.1.0) in [mitsuki31/temppath](https://github.com/mitsuki31/temppath)
+4. 🚀 Published release [0.2.0](https://github.com/mitsuki31/ytmp3-js/releases/tag/v0.2.0) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+5. 🎉 Merged PR [#6](https://github.com/mitsuki31/ytmp3-js/pull/6) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+6. 💪 Opened PR [#6](https://github.com/mitsuki31/ytmp3-js/pull/6) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
 7. 💪 Opened PR [#4](https://github.com/mitsuki31/ytmp3-js/pull/4) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
 8. 🎉 Merged PR [#3](https://github.com/mitsuki31/ytmp3-js/pull/3) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
 9. 🎉 Merged PR [#2](https://github.com/mitsuki31/ytmp3-js/pull/2) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)

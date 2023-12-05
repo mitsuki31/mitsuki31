@@ -58,16 +58,16 @@ Currently trying to get into front-end programming🔥, as I used hate it😅.
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/mitsuki31/jmatrix/pull/20#issuecomment-1841171500) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-2. 🗣 Commented on [#78](https://github.com/mitsuki31/jmatrix/pull/78#issuecomment-1841156833) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-3. 🗣 Commented on [#78](https://github.com/mitsuki31/jmatrix/pull/78#issuecomment-1841153350) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-4. 🗣 Commented on [#70](https://github.com/mitsuki31/jmatrix/pull/70#issuecomment-1841132070) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-5. 🗣 Commented on [#70](https://github.com/mitsuki31/jmatrix/pull/70#issuecomment-1841131075) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-6. 🗣 Commented on [#85](https://github.com/mitsuki31/jmatrix/pull/85#issuecomment-1841129934) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-7. 🗣 Commented on [#68](https://github.com/mitsuki31/jmatrix/pull/68#issuecomment-1841082241) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-8. 🗣 Commented on [#68](https://github.com/mitsuki31/jmatrix/pull/68#issuecomment-1841070451) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-9. 🗣 Commented on [#84](https://github.com/mitsuki31/jmatrix/pull/84#issuecomment-1841023810) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-10. 🗣 Commented on [#84](https://github.com/mitsuki31/jmatrix/pull/84#issuecomment-1841021623) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+1. 🗣 Commented on [#83](https://github.com/mitsuki31/jmatrix/pull/83#issuecomment-1841183353) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+2. 🗣 Commented on [#20](https://github.com/mitsuki31/jmatrix/pull/20#issuecomment-1841174286) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+3. 🗣 Commented on [#20](https://github.com/mitsuki31/jmatrix/pull/20#issuecomment-1841171500) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+4. 🗣 Commented on [#78](https://github.com/mitsuki31/jmatrix/pull/78#issuecomment-1841156833) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+5. 🗣 Commented on [#78](https://github.com/mitsuki31/jmatrix/pull/78#issuecomment-1841153350) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+6. 🗣 Commented on [#70](https://github.com/mitsuki31/jmatrix/pull/70#issuecomment-1841132070) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+7. 🗣 Commented on [#70](https://github.com/mitsuki31/jmatrix/pull/70#issuecomment-1841131075) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+8. 🗣 Commented on [#85](https://github.com/mitsuki31/jmatrix/pull/85#issuecomment-1841129934) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+9. 🗣 Commented on [#68](https://github.com/mitsuki31/jmatrix/pull/68#issuecomment-1841082241) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+10. 🗣 Commented on [#68](https://github.com/mitsuki31/jmatrix/pull/68#issuecomment-1841070451) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
 <!--END_SECTION:activity-->
 
 ---

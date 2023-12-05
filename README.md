@@ -58,10 +58,10 @@ Currently trying to get into front-end programming🔥, as I used hate it😅.
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/mitsuki31/SkiArticle/pull/14) in [mitsuki31/SkiArticle](https://github.com/mitsuki31/SkiArticle)
-2. 💪 Opened PR [#14](https://github.com/mitsuki31/SkiArticle/pull/14) in [mitsuki31/SkiArticle](https://github.com/mitsuki31/SkiArticle)
-3. 🚀 Published release [0.2.0](https://github.com/mitsuki31/temppath/releases/tag/v0.2.0) in [mitsuki31/temppath](https://github.com/mitsuki31/temppath)
-4. 🎉 Merged PR [#1](https://github.com/mitsuki31/temppath/pull/1) in [mitsuki31/temppath](https://github.com/mitsuki31/temppath)
+1. 🗣 Commented on [#77](https://github.com/mitsuki31/jmatrix/pull/77#issuecomment-1840780984) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+2. ❌ Closed PR [#77](https://github.com/mitsuki31/jmatrix/pull/77) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+3. 🎉 Merged PR [#14](https://github.com/mitsuki31/SkiArticle/pull/14) in [mitsuki31/SkiArticle](https://github.com/mitsuki31/SkiArticle)
+4. 💪 Opened PR [#14](https://github.com/mitsuki31/SkiArticle/pull/14) in [mitsuki31/SkiArticle](https://github.com/mitsuki31/SkiArticle)
 5. 💪 Opened PR [#1](https://github.com/mitsuki31/temppath/pull/1) in [mitsuki31/temppath](https://github.com/mitsuki31/temppath)
 6. 🎉 Merged PR [#6](https://github.com/mitsuki31/ytmp3-js/pull/6) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
 7. 💪 Opened PR [#6](https://github.com/mitsuki31/ytmp3-js/pull/6) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)

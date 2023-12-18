@@ -58,10 +58,10 @@ Currently trying to get into front-end programming🔥, as I used hate it😅.
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/mitsuki31/SkiArticle/pull/16) in [mitsuki31/SkiArticle](https://github.com/mitsuki31/SkiArticle)
-2. 💪 Opened PR [#16](https://github.com/mitsuki31/SkiArticle/pull/16) in [mitsuki31/SkiArticle](https://github.com/mitsuki31/SkiArticle)
-3. 💪 Opened PR [#15](https://github.com/mitsuki31/SkiArticle/pull/15) in [mitsuki31/SkiArticle](https://github.com/mitsuki31/SkiArticle)
-4. ❌ Reopened PR [#77](https://github.com/mitsuki31/jmatrix/pull/77) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+1. 🎉 Merged PR [#15](https://github.com/mitsuki31/SkiArticle/pull/15) in [mitsuki31/SkiArticle](https://github.com/mitsuki31/SkiArticle)
+2. 🎉 Merged PR [#16](https://github.com/mitsuki31/SkiArticle/pull/16) in [mitsuki31/SkiArticle](https://github.com/mitsuki31/SkiArticle)
+3. 💪 Opened PR [#16](https://github.com/mitsuki31/SkiArticle/pull/16) in [mitsuki31/SkiArticle](https://github.com/mitsuki31/SkiArticle)
+4. 💪 Opened PR [#15](https://github.com/mitsuki31/SkiArticle/pull/15) in [mitsuki31/SkiArticle](https://github.com/mitsuki31/SkiArticle)
 5. 🎉 Merged PR [#86](https://github.com/mitsuki31/jmatrix/pull/86) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
 6. 💪 Opened PR [#86](https://github.com/mitsuki31/jmatrix/pull/86) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
 7. 🗣 Commented on [#83](https://github.com/mitsuki31/jmatrix/pull/83#issuecomment-1841183353) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)

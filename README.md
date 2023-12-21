@@ -5,9 +5,7 @@
 ## 👋 Hi, There
 
 I'm a self-taught programmer from **Indonesia** 🇮🇩, and also a vocational school student.  
-There's _nothing special_ about me. In my spare time, I like to read some materials about programming, and make some small projects to learn.
-
-Currently trying to get into front-end programming🔥, as I used hate it😅.
+There's _nothing special_ about me. In my spare time, I'd like to read some materials about programming, and make some small projects to learn.
 
 ---
 

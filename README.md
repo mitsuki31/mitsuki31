@@ -56,7 +56,7 @@ There's _nothing special_ about me. In my spare time, I'd like to read some mate
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.0](https://github.com/mitsuki31/SkiArticle/releases/tag/v0.2.0) in [mitsuki31/SkiArticle](https://github.com/mitsuki31/SkiArticle)
+1. 🚀 Published release [v1.0.0](https://github.com/mitsuki31/JMBuilder/releases/tag/v1.0.0) in [mitsuki31/JMBuilder](https://github.com/mitsuki31/JMBuilder)
 2. 🎉 Merged PR [#18](https://github.com/mitsuki31/SkiArticle/pull/18) in [mitsuki31/SkiArticle](https://github.com/mitsuki31/SkiArticle)
 3. 💪 Opened PR [#18](https://github.com/mitsuki31/SkiArticle/pull/18) in [mitsuki31/SkiArticle](https://github.com/mitsuki31/SkiArticle)
 4. 🎉 Merged PR [#17](https://github.com/mitsuki31/SkiArticle/pull/17) in [mitsuki31/SkiArticle](https://github.com/mitsuki31/SkiArticle)

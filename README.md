@@ -9,6 +9,11 @@ There's _nothing special_ about me. In my spare time, I'd like to read some mate
 
 ---
 
+## 👾 My Tech Skills
+
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,css,sass,html,bash,arduino)](https://skillicons.dev)
+
+
 ## 🔭 My Statistics
 
 <picture id="stats">
@@ -47,13 +52,11 @@ There's _nothing special_ about me. In my spare time, I'd like to read some mate
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mitsuki31" />
 </picture>
 
-<!--
-[![Snake](https://github.com/mitsuki31/mitsuki31/blob/output/github-contribution-grid-snake.svg)](https://github.com/mitsuki31)
--->
+<br/>
 
----
 
-## ⚡ Recent Activities
+<details>
+<summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
 1. 🚀 Published release [v1.0.0](https://github.com/mitsuki31/JMBuilder/releases/tag/v1.0.0) in [mitsuki31/JMBuilder](https://github.com/mitsuki31/JMBuilder)
@@ -68,39 +71,4 @@ There's _nothing special_ about me. In my spare time, I'd like to read some mate
 10. 💪 Opened PR [#15](https://github.com/mitsuki31/SkiArticle/pull/15) in [mitsuki31/SkiArticle](https://github.com/mitsuki31/SkiArticle)
 <!--END_SECTION:activity-->
 
----
-
-
-## 👾 Technical Skills
-<div id="skills" align="left">
-    <!-- Python -->
-    <img
-      src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
-      width="99px"
-    >
-    <!-- C -->
-    <img
-      src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
-      width="53px"
-    >
-    <!-- C++ -->
-    <img
-      src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
-      width="73px"
-    >
-    <!-- Java -->
-    <img
-      src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
-      width="78px"
-    >
-    <!-- JavaScript -->
-    <img
-      src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-      width="128px"
-    >
-    <!-- Node.js -->
-    <img
-      src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
-      width="100px"
-    >
-</div>
+</details>

@@ -59,9 +59,9 @@ There's _nothing special_ about me. In my spare time, I'd like to read some mate
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/mitsuki31/SkiArticle/pull/19) in [mitsuki31/SkiArticle](https://github.com/mitsuki31/SkiArticle)
-2. 🚀 Published release [v1.0.0](https://github.com/mitsuki31/JMBuilder/releases/tag/v1.0.0) in [mitsuki31/JMBuilder](https://github.com/mitsuki31/JMBuilder)
-3. 💪 Opened PR [#18](https://github.com/mitsuki31/SkiArticle/pull/18) in [mitsuki31/SkiArticle](https://github.com/mitsuki31/SkiArticle)
+1. 🎉 Merged PR [#19](https://github.com/mitsuki31/SkiArticle/pull/19) in [mitsuki31/SkiArticle](https://github.com/mitsuki31/SkiArticle)
+2. 💪 Opened PR [#19](https://github.com/mitsuki31/SkiArticle/pull/19) in [mitsuki31/SkiArticle](https://github.com/mitsuki31/SkiArticle)
+3. 🚀 Published release [v1.0.0](https://github.com/mitsuki31/JMBuilder/releases/tag/v1.0.0) in [mitsuki31/JMBuilder](https://github.com/mitsuki31/JMBuilder)
 4. 🎉 Merged PR [#17](https://github.com/mitsuki31/SkiArticle/pull/17) in [mitsuki31/SkiArticle](https://github.com/mitsuki31/SkiArticle)
 5. 🗣 Commented on [#15](https://github.com/mitsuki31/SkiArticle/pull/15#issuecomment-1862987176) in [mitsuki31/SkiArticle](https://github.com/mitsuki31/SkiArticle)
 6. 💪 Opened PR [#17](https://github.com/mitsuki31/SkiArticle/pull/17) in [mitsuki31/SkiArticle](https://github.com/mitsuki31/SkiArticle)

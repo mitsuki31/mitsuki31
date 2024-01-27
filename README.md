@@ -59,11 +59,11 @@ There's _nothing special_ about me. In my spare time, I'd like to read some mate
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/mitsuki31/conio_lt/pull/5) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
-2. 💪 Opened PR [#5](https://github.com/mitsuki31/conio_lt/pull/5) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
-3. 🚀 Published release [v0.2.0](https://github.com/mitsuki31/conio_lt/releases/tag/v0.2.0) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
-4. 🎉 Merged PR [#4](https://github.com/mitsuki31/conio_lt/pull/4) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
-5. 🎉 Merged PR [#3](https://github.com/mitsuki31/conio_lt/pull/3) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
+1. 💪 Opened PR [#6](https://github.com/mitsuki31/conio_lt/pull/6) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
+2. 🎉 Merged PR [#5](https://github.com/mitsuki31/conio_lt/pull/5) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
+3. 💪 Opened PR [#5](https://github.com/mitsuki31/conio_lt/pull/5) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
+4. 🚀 Published release [v0.2.0](https://github.com/mitsuki31/conio_lt/releases/tag/v0.2.0) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
+5. 🎉 Merged PR [#4](https://github.com/mitsuki31/conio_lt/pull/4) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
 6. 💪 Opened PR [#4](https://github.com/mitsuki31/conio_lt/pull/4) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
 7. 💪 Opened PR [#3](https://github.com/mitsuki31/conio_lt/pull/3) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
 8. 🎉 Merged PR [#19](https://github.com/mitsuki31/SkiArticle/pull/19) in [mitsuki31/SkiArticle](https://github.com/mitsuki31/SkiArticle)

@@ -2,7 +2,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=mitsuki31&color=blue&label=PROFILE+VIEWS)](https://github.com/mitsuki31)
 [![Follow](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fryuumitsuki31)](https://twitter.com/ryuumitsuki31)
 
-## 👋 Hi, There
+<h2><img src="images/hi_there.png"/></h2>
 
 I'm a self-taught programmer from **Indonesia** 🇮🇩, and also a vocational school student.  
 There's _nothing special_ about me. In my spare time, I'd like to read some materials about programming, and make some small projects to learn.
@@ -84,9 +84,9 @@ There's _nothing special_ about me. In my spare time, I'd like to read some mate
     srcset="https://raw.githubusercontent.com/mitsuki31/mitsuki31/output/github-snake.svg"
     media="(prefers-color-scheme: light)"
   />
-  <!-- Default (dark) -->
+  <!-- Default -->
   <img
     alt="GitHub Contribution Grid Snake"
-    src="https://raw.githubusercontent.com/mitsuki31/mitsuki31/output/github-snake-dark.svg"
+    src="https://raw.githubusercontent.com/mitsuki31/mitsuki31/output/github-snake.svg"
   />
 </picture>

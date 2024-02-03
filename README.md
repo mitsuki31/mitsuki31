@@ -72,3 +72,21 @@ There's _nothing special_ about me. In my spare time, I'd like to read some mate
 <!--END_SECTION:activity-->
 
 </details>
+
+<picture>
+  <!-- For dark theme -->
+  <source
+    srcset="https://raw.githubusercontent.com/mitsuki31/mitsuki31/output/github-snake-dark.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+  <!-- For light theme -->
+  <source
+    srcset="https://raw.githubusercontent.com/mitsuki31/mitsuki31/output/github-snake.svg"
+    media="(prefers-color-scheme: light)"
+  />
+  <!-- Default (dark) -->
+  <img
+    alt="GitHub Contribution Grid Snake"
+    src="https://raw.githubusercontent.com/mitsuki31/mitsuki31/output/github-snake-dark.svg"
+  />
+</picture>

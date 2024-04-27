@@ -59,16 +59,16 @@ There's _nothing special_ about me. In my spare time, I'd like to read some mate
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/mitsuki31/lsfnd/pull/7) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
-2. 🎉 Merged PR [#6](https://github.com/mitsuki31/lsfnd/pull/6) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
-3. 💪 Opened PR [#6](https://github.com/mitsuki31/lsfnd/pull/6) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
-4. 🎉 Merged PR [#5](https://github.com/mitsuki31/lsfnd/pull/5) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
-5. 💪 Opened PR [#5](https://github.com/mitsuki31/lsfnd/pull/5) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
-6. 🎉 Merged PR [#4](https://github.com/mitsuki31/lsfnd/pull/4) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
-7. 💪 Opened PR [#4](https://github.com/mitsuki31/lsfnd/pull/4) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
-8. 🎉 Merged PR [#3](https://github.com/mitsuki31/lsfnd/pull/3) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
-9. 💪 Opened PR [#3](https://github.com/mitsuki31/lsfnd/pull/3) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
-10. 🎉 Merged PR [#2](https://github.com/mitsuki31/lsfnd/pull/2) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
+1. 🎉 Merged PR [#7](https://github.com/mitsuki31/lsfnd/pull/7) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
+2. 💪 Opened PR [#7](https://github.com/mitsuki31/lsfnd/pull/7) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
+3. 🎉 Merged PR [#6](https://github.com/mitsuki31/lsfnd/pull/6) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
+4. 💪 Opened PR [#6](https://github.com/mitsuki31/lsfnd/pull/6) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
+5. 🎉 Merged PR [#5](https://github.com/mitsuki31/lsfnd/pull/5) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
+6. 💪 Opened PR [#5](https://github.com/mitsuki31/lsfnd/pull/5) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
+7. 🎉 Merged PR [#4](https://github.com/mitsuki31/lsfnd/pull/4) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
+8. 💪 Opened PR [#4](https://github.com/mitsuki31/lsfnd/pull/4) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
+9. 🎉 Merged PR [#3](https://github.com/mitsuki31/lsfnd/pull/3) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
+10. 💪 Opened PR [#3](https://github.com/mitsuki31/lsfnd/pull/3) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
 <!--END_SECTION:activity-->
 
 </details>

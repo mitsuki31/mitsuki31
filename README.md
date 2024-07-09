@@ -59,16 +59,16 @@ There's _nothing special_ about me. In my spare time, I'd like to read some mate
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.3.0](https://github.com/mitsuki31/temppath/releases/tag/v0.3.0) in [mitsuki31/temppath](https://github.com/mitsuki31/temppath)
-2. 🎉 Merged PR [#5](https://github.com/mitsuki31/temppath/pull/5) in [mitsuki31/temppath](https://github.com/mitsuki31/temppath)
-3. 💪 Opened PR [#5](https://github.com/mitsuki31/temppath/pull/5) in [mitsuki31/temppath](https://github.com/mitsuki31/temppath)
-4. 🚀 Published release [temppath@0.3.0](https://github.com/mitsuki31/temppath/releases/tag/v0.3.0) in [mitsuki31/temppath](https://github.com/mitsuki31/temppath)
-5. 🎉 Merged PR [#4](https://github.com/mitsuki31/temppath/pull/4) in [mitsuki31/temppath](https://github.com/mitsuki31/temppath)
-6. 💪 Opened PR [#4](https://github.com/mitsuki31/temppath/pull/4) in [mitsuki31/temppath](https://github.com/mitsuki31/temppath)
-7. 🎉 Merged PR [#3](https://github.com/mitsuki31/temppath/pull/3) in [mitsuki31/temppath](https://github.com/mitsuki31/temppath)
-8. 💪 Opened PR [#3](https://github.com/mitsuki31/temppath/pull/3) in [mitsuki31/temppath](https://github.com/mitsuki31/temppath)
-9. 🎉 Merged PR [#2](https://github.com/mitsuki31/temppath/pull/2) in [mitsuki31/temppath](https://github.com/mitsuki31/temppath)
-10. 💪 Opened PR [#2](https://github.com/mitsuki31/temppath/pull/2) in [mitsuki31/temppath](https://github.com/mitsuki31/temppath)
+1. 🚀 Published release [temppath@0.3.1](https://github.com/mitsuki31/temppath/releases/tag/v0.3.1) in [mitsuki31/temppath](https://github.com/mitsuki31/temppath)
+2. 🚀 Published release [v0.3.0](https://github.com/mitsuki31/temppath/releases/tag/v0.3.0) in [mitsuki31/temppath](https://github.com/mitsuki31/temppath)
+3. 🎉 Merged PR [#5](https://github.com/mitsuki31/temppath/pull/5) in [mitsuki31/temppath](https://github.com/mitsuki31/temppath)
+4. 💪 Opened PR [#5](https://github.com/mitsuki31/temppath/pull/5) in [mitsuki31/temppath](https://github.com/mitsuki31/temppath)
+5. 🚀 Published release [temppath@0.3.0](https://github.com/mitsuki31/temppath/releases/tag/v0.3.0) in [mitsuki31/temppath](https://github.com/mitsuki31/temppath)
+6. 🎉 Merged PR [#4](https://github.com/mitsuki31/temppath/pull/4) in [mitsuki31/temppath](https://github.com/mitsuki31/temppath)
+7. 💪 Opened PR [#4](https://github.com/mitsuki31/temppath/pull/4) in [mitsuki31/temppath](https://github.com/mitsuki31/temppath)
+8. 🎉 Merged PR [#3](https://github.com/mitsuki31/temppath/pull/3) in [mitsuki31/temppath](https://github.com/mitsuki31/temppath)
+9. 💪 Opened PR [#3](https://github.com/mitsuki31/temppath/pull/3) in [mitsuki31/temppath](https://github.com/mitsuki31/temppath)
+10. 🎉 Merged PR [#2](https://github.com/mitsuki31/temppath/pull/2) in [mitsuki31/temppath](https://github.com/mitsuki31/temppath)
 <!--END_SECTION:activity-->
 
 </details>

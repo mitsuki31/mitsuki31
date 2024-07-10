@@ -1,11 +1,13 @@
 <!-- Header Badges -->
+<!--
 [![Profile Views](https://komarev.com/ghpvc/?username=mitsuki31&color=blue&label=PROFILE+VIEWS)](https://github.com/mitsuki31)
 [![Follow](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fryuumitsuki31)](https://twitter.com/ryuumitsuki31)
+-->
 
 <h2><img src="images/hi_there.png"/></h2>
 
 I'm a self-taught programmer from **Indonesia** 🇮🇩, and also a vocational school student.  
-There's _nothing special_ about me. In my spare time, I'd like to read some materials about programming, and make some small projects to learn.
+In my spare time, I'd like to read and learn some materials about programming. I'm very interested on CLI-based app development.
 
 ---
 

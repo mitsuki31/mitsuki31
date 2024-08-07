@@ -1,17 +1,21 @@
 <!-- Header Badges -->
-<!--
 [![Profile Views](https://komarev.com/ghpvc/?username=mitsuki31&color=blue&label=PROFILE+VIEWS)](https://github.com/mitsuki31)
+<!--
 [![Follow](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fryuumitsuki31)](https://twitter.com/ryuumitsuki31)
 -->
 
 <h2><img src="images/hi_there.png"/></h2>
 
-I'm a self-taught programmer from **Indonesia** 🇮🇩, and also a vocational school student.  
-In my spare time, I'd like to read and learn some materials about programming. I'm very interested on CLI-based app development.
+## 🖋️ About Me
+### A self-taught programmer from **Indonesia** 🇮🇩
+My real name is Dhefa Gusni Azzahra, I'm a **CLI-based Software Enthusiast**,
+**Beginner Network Technician** also a **Beginner Frontend Developer**. I'm very interested to CLI-based application and Application Programming Interface (API) development 🌲. In my spare time, I'd like to read and learn some materials about programming and anything about technology that makes me interested.
+
+🌱 Currently learning and deepening on **Security Networking** and **Project Management**.
 
 ---
 
-## 👾 My Tech Skills
+## 👾 Soft Skills
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,css,sass,html,bash,arduino)](https://skillicons.dev)
 

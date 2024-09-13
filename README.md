@@ -65,16 +65,16 @@ My real name is Dhefa Gusni Azzahra, I'm a **CLI-based Software Enthusiast**,
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#131](https://github.com/mitsuki31/jmatrix/pull/131) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-2. 🎉 Merged PR [#130](https://github.com/mitsuki31/jmatrix/pull/130) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-3. 💪 Opened PR [#130](https://github.com/mitsuki31/jmatrix/pull/130) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-4. 🎉 Merged PR [#129](https://github.com/mitsuki31/jmatrix/pull/129) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-5. 💪 Opened PR [#129](https://github.com/mitsuki31/jmatrix/pull/129) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-6. 🚀 Published release [v1.1.1](https://github.com/mitsuki31/ytmp3-js/releases/tag/v1.1.1) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-7. 🎉 Merged PR [#48](https://github.com/mitsuki31/ytmp3-js/pull/48) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-8. 💪 Opened PR [#48](https://github.com/mitsuki31/ytmp3-js/pull/48) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-9. 🚀 Published release [v1.1.0 Stable](https://github.com/mitsuki31/ytmp3-js/releases/tag/v1.1.0) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-10. 🎉 Merged PR [#45](https://github.com/mitsuki31/ytmp3-js/pull/45) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+1. 🗣 Commented on [#63](https://github.com/mitsuki31/jmatrix/issues/63#issuecomment-2348160460) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+2. 🔓 Reopened issue [#63](https://github.com/mitsuki31/jmatrix/issues/63) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+3. 🔒 Closed issue [#63](https://github.com/mitsuki31/jmatrix/issues/63) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+4. 🎉 Merged PR [#131](https://github.com/mitsuki31/jmatrix/pull/131) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+5. 💪 Opened PR [#131](https://github.com/mitsuki31/jmatrix/pull/131) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+6. 🎉 Merged PR [#130](https://github.com/mitsuki31/jmatrix/pull/130) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+7. 💪 Opened PR [#130](https://github.com/mitsuki31/jmatrix/pull/130) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+8. 🎉 Merged PR [#129](https://github.com/mitsuki31/jmatrix/pull/129) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+9. 💪 Opened PR [#129](https://github.com/mitsuki31/jmatrix/pull/129) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+10. 🚀 Published release [v1.1.1](https://github.com/mitsuki31/ytmp3-js/releases/tag/v1.1.1) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
 <!--END_SECTION:activity-->
 
 </details>

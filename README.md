@@ -4,7 +4,7 @@
 [![Follow](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fryuumitsuki31)](https://twitter.com/ryuumitsuki31)
 -->
 
-<h2><img src="images/hi_there.png"/></h2>
+<h2><img src="images/hi_there.png"></h2>
 
 ## 🖋️ About Me
 ### A self-taught programmer from **Indonesia** 🇮🇩
@@ -57,6 +57,8 @@ My real name is Dhefa Gusni Azzahra, I'm a **CLI-based Software Enthusiast**,
     />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mitsuki31" />
 </picture>
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=mitsuki31&theme=algolia&column=-1&rank=-C,-D&title=-Experience&no-bg=true)
 
 <br/>
 

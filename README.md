@@ -65,16 +65,16 @@ My real name is Dhefa Gusni Azzahra, I'm a **CLI-based Software Enthusiast**,
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/mitsuki31/jmatrix/issues/63#issuecomment-2348160460) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-2. 🔓 Reopened issue [#63](https://github.com/mitsuki31/jmatrix/issues/63) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-3. 🔒 Closed issue [#63](https://github.com/mitsuki31/jmatrix/issues/63) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-4. 🎉 Merged PR [#131](https://github.com/mitsuki31/jmatrix/pull/131) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-5. 💪 Opened PR [#131](https://github.com/mitsuki31/jmatrix/pull/131) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-6. 🎉 Merged PR [#130](https://github.com/mitsuki31/jmatrix/pull/130) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-7. 💪 Opened PR [#130](https://github.com/mitsuki31/jmatrix/pull/130) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-8. 🎉 Merged PR [#129](https://github.com/mitsuki31/jmatrix/pull/129) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-9. 💪 Opened PR [#129](https://github.com/mitsuki31/jmatrix/pull/129) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
-10. 🚀 Published release [v1.1.1](https://github.com/mitsuki31/ytmp3-js/releases/tag/v1.1.1) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+1. 💪 Opened PR [#132](https://github.com/mitsuki31/jmatrix/pull/132) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+2. 🗣 Commented on [#63](https://github.com/mitsuki31/jmatrix/issues/63#issuecomment-2348160460) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+3. 🔓 Reopened issue [#63](https://github.com/mitsuki31/jmatrix/issues/63) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+4. 🔒 Closed issue [#63](https://github.com/mitsuki31/jmatrix/issues/63) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+5. 🎉 Merged PR [#131](https://github.com/mitsuki31/jmatrix/pull/131) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+6. 💪 Opened PR [#131](https://github.com/mitsuki31/jmatrix/pull/131) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+7. 🎉 Merged PR [#130](https://github.com/mitsuki31/jmatrix/pull/130) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+8. 💪 Opened PR [#130](https://github.com/mitsuki31/jmatrix/pull/130) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+9. 🎉 Merged PR [#129](https://github.com/mitsuki31/jmatrix/pull/129) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
+10. 💪 Opened PR [#129](https://github.com/mitsuki31/jmatrix/pull/129) in [mitsuki31/jmatrix](https://github.com/mitsuki31/jmatrix)
 <!--END_SECTION:activity-->
 
 </details>

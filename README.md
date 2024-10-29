@@ -1,10 +1,20 @@
 <!-- Header Badges -->
-[![Profile Views](https://komarev.com/ghpvc/?username=mitsuki31&color=blue&label=PROFILE+VIEWS)](https://github.com/mitsuki31)
 <!--
+[![Profile Views](https://komarev.com/ghpvc/?username=mitsuki31&color=blue&label=PROFILE+VIEWS)](https://github.com/mitsuki31)
+
 [![Follow](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fryuumitsuki31)](https://twitter.com/ryuumitsuki31)
 -->
 
-<h2><img src="images/hi_there.png"></h2>
+<!-- Header Banner -->
+<!--
+  ==========================  [ COPYRIGHT NOTICE ]  =========================
+  - The header image was edited by me, but I do not own any copyright for the source image.
+  - All copyrights are owned by their respective owners.
+  - 
+  - Character Name: 井芹 仁菜 / Nina Iseri (from Girls Band Cry「ガールズバンドクライ」anime)
+  ===============================================================
+-->
+<img id="headerBanner" src="./images/headerBanner.png" height="auto"/>
 
 ## 🖋️ About Me
 ### A self-taught programmer from **Indonesia** 🇮🇩

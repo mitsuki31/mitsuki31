@@ -77,16 +77,16 @@ My real name is Dhefa Gusni Azzahra, I'm a **CLI-based Software Enthusiast**,
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#83](https://github.com/mitsuki31/ytmp3-js/issues/83) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-2. 🎉 Merged PR [#12](https://github.com/mitsuki31/conio_lt/pull/12) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
-3. 💪 Opened PR [#12](https://github.com/mitsuki31/conio_lt/pull/12) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
-4. 🎉 Merged PR [#11](https://github.com/mitsuki31/conio_lt/pull/11) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
-5. 💪 Opened PR [#11](https://github.com/mitsuki31/conio_lt/pull/11) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
-6. 🎉 Merged PR [#10](https://github.com/mitsuki31/conio_lt/pull/10) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
-7. 💪 Opened PR [#10](https://github.com/mitsuki31/conio_lt/pull/10) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
-8. 🎉 Merged PR [#9](https://github.com/mitsuki31/conio_lt/pull/9) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
-9. 💪 Opened PR [#9](https://github.com/mitsuki31/conio_lt/pull/9) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
-10. 🎉 Merged PR [#8](https://github.com/mitsuki31/conio_lt/pull/8) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
+1. 🗣 Commented on [#81](https://github.com/mitsuki31/ytmp3-js/pull/81#issuecomment-2571279979) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+2. ❗ Opened issue [#83](https://github.com/mitsuki31/ytmp3-js/issues/83) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+3. 🎉 Merged PR [#12](https://github.com/mitsuki31/conio_lt/pull/12) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
+4. 💪 Opened PR [#12](https://github.com/mitsuki31/conio_lt/pull/12) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
+5. 🎉 Merged PR [#11](https://github.com/mitsuki31/conio_lt/pull/11) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
+6. 💪 Opened PR [#11](https://github.com/mitsuki31/conio_lt/pull/11) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
+7. 🎉 Merged PR [#10](https://github.com/mitsuki31/conio_lt/pull/10) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
+8. 💪 Opened PR [#10](https://github.com/mitsuki31/conio_lt/pull/10) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
+9. 🎉 Merged PR [#9](https://github.com/mitsuki31/conio_lt/pull/9) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
+10. 💪 Opened PR [#9](https://github.com/mitsuki31/conio_lt/pull/9) in [mitsuki31/conio_lt](https://github.com/mitsuki31/conio_lt)
 <!--END_SECTION:activity-->
 
 </details>

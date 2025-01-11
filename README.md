@@ -77,16 +77,16 @@ My real name is Dhefa Gusni Azzahra, I'm a **CLI-based Software Enthusiast**,
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#87](https://github.com/mitsuki31/ytmp3-js/pull/87) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-2. 🚀 Published release [v2.0.0 Beta 1](https://github.com/mitsuki31/ytmp3-js/releases/tag/v2.0.0-b.1) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-3. 🎉 Merged PR [#86](https://github.com/mitsuki31/ytmp3-js/pull/86) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-4. 🗣 Commented on [#86](https://github.com/mitsuki31/ytmp3-js/pull/86#issuecomment-2581669243) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-5. 💪 Opened PR [#86](https://github.com/mitsuki31/ytmp3-js/pull/86) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-6. 🎉 Merged PR [#85](https://github.com/mitsuki31/ytmp3-js/pull/85) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-7. 💪 Opened PR [#85](https://github.com/mitsuki31/ytmp3-js/pull/85) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-8. 🎉 Merged PR [#84](https://github.com/mitsuki31/ytmp3-js/pull/84) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-9. 💪 Opened PR [#84](https://github.com/mitsuki31/ytmp3-js/pull/84) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-10. 🗣 Commented on [#81](https://github.com/mitsuki31/ytmp3-js/pull/81#issuecomment-2571279979) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+1. 🎉 Merged PR [#87](https://github.com/mitsuki31/ytmp3-js/pull/87) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+2. 💪 Opened PR [#87](https://github.com/mitsuki31/ytmp3-js/pull/87) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+3. 🚀 Published release [v2.0.0 Beta 1](https://github.com/mitsuki31/ytmp3-js/releases/tag/v2.0.0-b.1) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+4. 🎉 Merged PR [#86](https://github.com/mitsuki31/ytmp3-js/pull/86) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+5. 🗣 Commented on [#86](https://github.com/mitsuki31/ytmp3-js/pull/86#issuecomment-2581669243) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+6. 💪 Opened PR [#86](https://github.com/mitsuki31/ytmp3-js/pull/86) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+7. 🎉 Merged PR [#85](https://github.com/mitsuki31/ytmp3-js/pull/85) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+8. 💪 Opened PR [#85](https://github.com/mitsuki31/ytmp3-js/pull/85) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+9. 🎉 Merged PR [#84](https://github.com/mitsuki31/ytmp3-js/pull/84) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+10. 💪 Opened PR [#84](https://github.com/mitsuki31/ytmp3-js/pull/84) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
 <!--END_SECTION:activity-->
 
 </details>

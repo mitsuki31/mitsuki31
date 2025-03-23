@@ -77,7 +77,7 @@ My real name is Dhefa Gusni Azzahra, I'm a **CLI-based Software Enthusiast**,
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#110](https://github.com/mitsuki31/ytmp3-js/issues/110) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+1. 💪 Opened PR [#120](https://github.com/mitsuki31/ytmp3-js/pull/120) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
 2. 🗣 Commented on [#110](https://github.com/mitsuki31/ytmp3-js/issues/110#issuecomment-2670561596) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
 3. 🎉 Merged PR [#109](https://github.com/mitsuki31/ytmp3-js/pull/109) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
 4. 💪 Opened PR [#109](https://github.com/mitsuki31/ytmp3-js/pull/109) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)

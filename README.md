@@ -77,12 +77,12 @@ My real name is Dhefa Gusni Azzahra, I'm a **CLI-based Software Enthusiast**,
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.0 Beta 2](https://github.com/mitsuki31/ytmp3-js/releases/tag/v2.0.0-b.2) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-2. 🎉 Merged PR [#121](https://github.com/mitsuki31/ytmp3-js/pull/121) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-3. 💪 Opened PR [#121](https://github.com/mitsuki31/ytmp3-js/pull/121) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-4. 🎉 Merged PR [#120](https://github.com/mitsuki31/ytmp3-js/pull/120) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-5. 💪 Opened PR [#120](https://github.com/mitsuki31/ytmp3-js/pull/120) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-6. 🚀 Published release [v1.0.0](https://github.com/mitsuki31/deepget/releases/tag/v1.0.0) in [mitsuki31/deepget](https://github.com/mitsuki31/deepget)
+1. 🗣 Commented on [#220](https://github.com/distubejs/ytdl-core/issues/220#issuecomment-2753497353) in [distubejs/ytdl-core](https://github.com/distubejs/ytdl-core)
+2. 🚀 Published release [v2.0.0 Beta 2](https://github.com/mitsuki31/ytmp3-js/releases/tag/v2.0.0-b.2) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+3. 🎉 Merged PR [#121](https://github.com/mitsuki31/ytmp3-js/pull/121) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+4. 💪 Opened PR [#121](https://github.com/mitsuki31/ytmp3-js/pull/121) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+5. 🎉 Merged PR [#120](https://github.com/mitsuki31/ytmp3-js/pull/120) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+6. 💪 Opened PR [#120](https://github.com/mitsuki31/ytmp3-js/pull/120) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
 7. 🎉 Merged PR [#104](https://github.com/mitsuki31/ytmp3-js/pull/104) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
 8. 💪 Opened PR [#104](https://github.com/mitsuki31/ytmp3-js/pull/104) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
 9. 🎉 Merged PR [#101](https://github.com/mitsuki31/ytmp3-js/pull/101) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)

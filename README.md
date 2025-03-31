@@ -77,16 +77,16 @@ My real name is Dhefa Gusni Azzahra, I'm a **CLI-based Software Enthusiast**,
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#124](https://github.com/mitsuki31/ytmp3-js/pull/124) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-2. 🎉 Merged PR [#123](https://github.com/mitsuki31/ytmp3-js/pull/123) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-3. 💪 Opened PR [#123](https://github.com/mitsuki31/ytmp3-js/pull/123) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-4. ❌ Closed PR [#122](https://github.com/mitsuki31/ytmp3-js/pull/122) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-5. 💪 Opened PR [#122](https://github.com/mitsuki31/ytmp3-js/pull/122) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-6. 🗣 Commented on [#221](https://github.com/distubejs/ytdl-core/issues/221#issuecomment-2757310801) in [distubejs/ytdl-core](https://github.com/distubejs/ytdl-core)
-7. 🗣 Commented on [#221](https://github.com/distubejs/ytdl-core/issues/221#issuecomment-2757290948) in [distubejs/ytdl-core](https://github.com/distubejs/ytdl-core)
-8. 🗣 Commented on [#220](https://github.com/distubejs/ytdl-core/issues/220#issuecomment-2753497353) in [distubejs/ytdl-core](https://github.com/distubejs/ytdl-core)
-9. 🚀 Published release [v2.0.0 Beta 2](https://github.com/mitsuki31/ytmp3-js/releases/tag/v2.0.0-b.2) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-10. 🎉 Merged PR [#121](https://github.com/mitsuki31/ytmp3-js/pull/121) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+1. 🗣 Commented on [#124](https://github.com/mitsuki31/ytmp3-js/pull/124#issuecomment-2766188916) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+2. 💪 Opened PR [#124](https://github.com/mitsuki31/ytmp3-js/pull/124) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+3. 🎉 Merged PR [#123](https://github.com/mitsuki31/ytmp3-js/pull/123) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+4. 💪 Opened PR [#123](https://github.com/mitsuki31/ytmp3-js/pull/123) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+5. ❌ Closed PR [#122](https://github.com/mitsuki31/ytmp3-js/pull/122) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+6. 💪 Opened PR [#122](https://github.com/mitsuki31/ytmp3-js/pull/122) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+7. 🗣 Commented on [#221](https://github.com/distubejs/ytdl-core/issues/221#issuecomment-2757310801) in [distubejs/ytdl-core](https://github.com/distubejs/ytdl-core)
+8. 🗣 Commented on [#221](https://github.com/distubejs/ytdl-core/issues/221#issuecomment-2757290948) in [distubejs/ytdl-core](https://github.com/distubejs/ytdl-core)
+9. 🗣 Commented on [#220](https://github.com/distubejs/ytdl-core/issues/220#issuecomment-2753497353) in [distubejs/ytdl-core](https://github.com/distubejs/ytdl-core)
+10. 🚀 Published release [v2.0.0 Beta 2](https://github.com/mitsuki31/ytmp3-js/releases/tag/v2.0.0-b.2) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
 <!--END_SECTION:activity-->
 
 </details>

@@ -21,7 +21,7 @@
 My real name is Dhefa Gusni Azzahra, I'm a **CLI-based Software Enthusiast**,
 **Beginner Network Technician** also a **Beginner Frontend Developer**. I'm very interested to CLI-based application and Application Programming Interface (API) development 🌲. In my spare time, I'd like to read and learn some materials about programming and anything about technology that makes me interested.
 
-🌱 Currently learning and deepening on **Security Networking** and **Project Management**.
+🌱 Currently learning on **Electrical Engineering**.
 
 ---
 

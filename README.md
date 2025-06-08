@@ -77,13 +77,13 @@ My real name is Dhefa Gusni Azzahra, I'm a **CLI-based Software Enthusiast**,
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#133](https://github.com/mitsuki31/ytmp3-js/pull/133#issuecomment-2953881155) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-2. 🎉 Merged PR [#2](https://github.com/mitsuki31/Neo-SkiArticle/pull/2) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-3. 💪 Opened PR [#2](https://github.com/mitsuki31/Neo-SkiArticle/pull/2) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-4. 🎉 Merged PR [#1](https://github.com/mitsuki31/Neo-SkiArticle/pull/1) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-5. 💪 Opened PR [#1](https://github.com/mitsuki31/Neo-SkiArticle/pull/1) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-6. 💪 Opened PR [#123](https://github.com/mitsuki31/ytmp3-js/pull/123) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-7. ❌ Closed PR [#122](https://github.com/mitsuki31/ytmp3-js/pull/122) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+1. 🎉 Merged PR [#133](https://github.com/mitsuki31/ytmp3-js/pull/133) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+2. 🗣 Commented on [#133](https://github.com/mitsuki31/ytmp3-js/pull/133#issuecomment-2953901551) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+3. 🗣 Commented on [#133](https://github.com/mitsuki31/ytmp3-js/pull/133#issuecomment-2953881155) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+4. 🎉 Merged PR [#2](https://github.com/mitsuki31/Neo-SkiArticle/pull/2) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+5. 💪 Opened PR [#2](https://github.com/mitsuki31/Neo-SkiArticle/pull/2) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+6. 🎉 Merged PR [#1](https://github.com/mitsuki31/Neo-SkiArticle/pull/1) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+7. 💪 Opened PR [#1](https://github.com/mitsuki31/Neo-SkiArticle/pull/1) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
 8. 💪 Opened PR [#122](https://github.com/mitsuki31/ytmp3-js/pull/122) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
 9. 🗣 Commented on [#221](https://github.com/distubejs/ytdl-core/issues/221#issuecomment-2757310801) in [distubejs/ytdl-core](https://github.com/distubejs/ytdl-core)
 10. 🗣 Commented on [#221](https://github.com/distubejs/ytdl-core/issues/221#issuecomment-2757290948) in [distubejs/ytdl-core](https://github.com/distubejs/ytdl-core)

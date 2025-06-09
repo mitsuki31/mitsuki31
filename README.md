@@ -77,16 +77,16 @@ My real name is Dhefa Gusni Azzahra, I'm a **CLI-based Software Enthusiast**,
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#135](https://github.com/mitsuki31/ytmp3-js/pull/135) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-2. 💪 Opened PR [#135](https://github.com/mitsuki31/ytmp3-js/pull/135) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-3. 🎉 Merged PR [#134](https://github.com/mitsuki31/ytmp3-js/pull/134) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-4. 💪 Opened PR [#134](https://github.com/mitsuki31/ytmp3-js/pull/134) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-5. 🎉 Merged PR [#133](https://github.com/mitsuki31/ytmp3-js/pull/133) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-6. 🗣 Commented on [#133](https://github.com/mitsuki31/ytmp3-js/pull/133#issuecomment-2953901551) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-7. 🗣 Commented on [#133](https://github.com/mitsuki31/ytmp3-js/pull/133#issuecomment-2953881155) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-8. 🎉 Merged PR [#2](https://github.com/mitsuki31/Neo-SkiArticle/pull/2) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-9. 💪 Opened PR [#2](https://github.com/mitsuki31/Neo-SkiArticle/pull/2) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-10. 🎉 Merged PR [#1](https://github.com/mitsuki31/Neo-SkiArticle/pull/1) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+1. ❗ Opened issue [#136](https://github.com/mitsuki31/ytmp3-js/issues/136) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+2. 🎉 Merged PR [#135](https://github.com/mitsuki31/ytmp3-js/pull/135) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+3. 💪 Opened PR [#135](https://github.com/mitsuki31/ytmp3-js/pull/135) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+4. 🎉 Merged PR [#134](https://github.com/mitsuki31/ytmp3-js/pull/134) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+5. 💪 Opened PR [#134](https://github.com/mitsuki31/ytmp3-js/pull/134) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+6. 🎉 Merged PR [#133](https://github.com/mitsuki31/ytmp3-js/pull/133) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+7. 🗣 Commented on [#133](https://github.com/mitsuki31/ytmp3-js/pull/133#issuecomment-2953901551) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+8. 🗣 Commented on [#133](https://github.com/mitsuki31/ytmp3-js/pull/133#issuecomment-2953881155) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+9. 🎉 Merged PR [#2](https://github.com/mitsuki31/Neo-SkiArticle/pull/2) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+10. 💪 Opened PR [#2](https://github.com/mitsuki31/Neo-SkiArticle/pull/2) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
 <!--END_SECTION:activity-->
 
 </details>

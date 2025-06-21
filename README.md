@@ -77,16 +77,16 @@ My real name is Dhefa Gusni Azzahra, I'm a **CLI-based Software Enthusiast**,
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#505](https://github.com/yargs/yargs-parser/pull/505#issuecomment-2987039175) in [yargs/yargs-parser](https://github.com/yargs/yargs-parser)
-2. 🗣 Commented on [#505](https://github.com/yargs/yargs-parser/pull/505#issuecomment-2986838845) in [yargs/yargs-parser](https://github.com/yargs/yargs-parser)
-3. 🚀 Published release [v2.0.0 Beta 3](https://github.com/mitsuki31/ytmp3-js/releases/tag/v2.0.0-b.3) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-4. 🔒 Closed issue [#83](https://github.com/mitsuki31/ytmp3-js/issues/83) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-5. ❗ Opened issue [#136](https://github.com/mitsuki31/ytmp3-js/issues/136) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-6. 🎉 Merged PR [#135](https://github.com/mitsuki31/ytmp3-js/pull/135) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-7. 💪 Opened PR [#135](https://github.com/mitsuki31/ytmp3-js/pull/135) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-8. 🎉 Merged PR [#134](https://github.com/mitsuki31/ytmp3-js/pull/134) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-9. 💪 Opened PR [#134](https://github.com/mitsuki31/ytmp3-js/pull/134) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-10. 🎉 Merged PR [#133](https://github.com/mitsuki31/ytmp3-js/pull/133) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+1. 🗣 Commented on [#505](https://github.com/yargs/yargs-parser/pull/505#issuecomment-2993471263) in [yargs/yargs-parser](https://github.com/yargs/yargs-parser)
+2. 🗣 Commented on [#505](https://github.com/yargs/yargs-parser/pull/505#issuecomment-2987039175) in [yargs/yargs-parser](https://github.com/yargs/yargs-parser)
+3. 🗣 Commented on [#505](https://github.com/yargs/yargs-parser/pull/505#issuecomment-2986838845) in [yargs/yargs-parser](https://github.com/yargs/yargs-parser)
+4. 🚀 Published release [v2.0.0 Beta 3](https://github.com/mitsuki31/ytmp3-js/releases/tag/v2.0.0-b.3) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+5. 🔒 Closed issue [#83](https://github.com/mitsuki31/ytmp3-js/issues/83) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+6. ❗ Opened issue [#136](https://github.com/mitsuki31/ytmp3-js/issues/136) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+7. 🎉 Merged PR [#135](https://github.com/mitsuki31/ytmp3-js/pull/135) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+8. 💪 Opened PR [#135](https://github.com/mitsuki31/ytmp3-js/pull/135) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+9. 🎉 Merged PR [#134](https://github.com/mitsuki31/ytmp3-js/pull/134) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+10. 💪 Opened PR [#134](https://github.com/mitsuki31/ytmp3-js/pull/134) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
 <!--END_SECTION:activity-->
 
 </details>

@@ -29,7 +29,7 @@ I’m also learning **frontend development** (_even though I hated it before_), 
 <br/>
 <div align="center">
 
-> **“千回失敗しても、すべてに失敗するわけじゃない。**  
+> **⌊ 千回失敗しても、すべてに失敗するわけじゃない。 ⌉**  
 > _(Senkai shippai shitemo, subete ni shippai suru wake janai.)_
 > 
 > _**Even if you fail a thousand times, it doesn't mean you'll fail at everything.**_

@@ -95,13 +95,13 @@ I’m also learning **frontend development** (_even though I hated it before_), 
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#151](https://github.com/mitsuki31/ytmp3-js/pull/151) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-2. 💪 Opened PR [#984](https://github.com/LuanRT/YouTube.js/pull/984) in [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js)
-3. 🗣 Commented on [#505](https://github.com/yargs/yargs-parser/pull/505#issuecomment-2993471263) in [yargs/yargs-parser](https://github.com/yargs/yargs-parser)
-4. 🗣 Commented on [#505](https://github.com/yargs/yargs-parser/pull/505#issuecomment-2987039175) in [yargs/yargs-parser](https://github.com/yargs/yargs-parser)
-5. 🗣 Commented on [#505](https://github.com/yargs/yargs-parser/pull/505#issuecomment-2986838845) in [yargs/yargs-parser](https://github.com/yargs/yargs-parser)
-6. 🚀 Published release [v2.0.0 Beta 3](https://github.com/mitsuki31/ytmp3-js/releases/tag/v2.0.0-b.3) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-7. ❗ Opened issue [#136](https://github.com/mitsuki31/ytmp3-js/issues/136) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+1. 🎉 Merged PR [#151](https://github.com/mitsuki31/ytmp3-js/pull/151) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+2. 💪 Opened PR [#151](https://github.com/mitsuki31/ytmp3-js/pull/151) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+3. 💪 Opened PR [#984](https://github.com/LuanRT/YouTube.js/pull/984) in [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js)
+4. 🗣 Commented on [#505](https://github.com/yargs/yargs-parser/pull/505#issuecomment-2993471263) in [yargs/yargs-parser](https://github.com/yargs/yargs-parser)
+5. 🗣 Commented on [#505](https://github.com/yargs/yargs-parser/pull/505#issuecomment-2987039175) in [yargs/yargs-parser](https://github.com/yargs/yargs-parser)
+6. 🗣 Commented on [#505](https://github.com/yargs/yargs-parser/pull/505#issuecomment-2986838845) in [yargs/yargs-parser](https://github.com/yargs/yargs-parser)
+7. 🚀 Published release [v2.0.0 Beta 3](https://github.com/mitsuki31/ytmp3-js/releases/tag/v2.0.0-b.3) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
 8. 🎉 Merged PR [#135](https://github.com/mitsuki31/ytmp3-js/pull/135) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
 9. 💪 Opened PR [#135](https://github.com/mitsuki31/ytmp3-js/pull/135) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
 10. 🎉 Merged PR [#134](https://github.com/mitsuki31/ytmp3-js/pull/134) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)

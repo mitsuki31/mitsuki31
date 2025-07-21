@@ -41,7 +41,7 @@ I’m also learning **frontend development** (_even though I hated it before_), 
 ## 👾 Soft Skills
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,css,html,c,cpp,java,py,bash)](https://skillicons.dev)  
-[![Used Frameworks](https://skillicons.dev/icons?i=nextjs,vite,nodejs,react,sass,tailwind,maven,arduino)](https://skillicons.dev)
+[![Used Frameworks](https://skillicons.dev/icons?i=nextjs,vite,nodejs,bun,react,sass,tailwind,maven,arduino)](https://skillicons.dev)
 
 ### 💻 Workspaces
 

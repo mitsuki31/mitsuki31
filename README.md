@@ -95,16 +95,16 @@ I’m also learning **frontend development** (_even though I hated it before_), 
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#159](https://github.com/mitsuki31/ytmp3-js/pull/159) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-2. 💪 Opened PR [#159](https://github.com/mitsuki31/ytmp3-js/pull/159) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-3. 🎉 Merged PR [#158](https://github.com/mitsuki31/ytmp3-js/pull/158) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-4. 💪 Opened PR [#158](https://github.com/mitsuki31/ytmp3-js/pull/158) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-5. 🎉 Merged PR [#157](https://github.com/mitsuki31/ytmp3-js/pull/157) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-6. 💪 Opened PR [#157](https://github.com/mitsuki31/ytmp3-js/pull/157) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-7. 🎉 Merged PR [#156](https://github.com/mitsuki31/ytmp3-js/pull/156) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-8. 💪 Opened PR [#156](https://github.com/mitsuki31/ytmp3-js/pull/156) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-9. 💪 Opened PR [#228](https://github.com/shinyflvre/Mate-Engine/pull/228) in [shinyflvre/Mate-Engine](https://github.com/shinyflvre/Mate-Engine)
-10. 🗣 Commented on [#136](https://github.com/mitsuki31/ytmp3-js/issues/136#issuecomment-3063597944) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+1. 💪 Opened PR [#1018](https://github.com/LuanRT/YouTube.js/pull/1018) in [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js)
+2. 🎉 Merged PR [#159](https://github.com/mitsuki31/ytmp3-js/pull/159) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+3. 💪 Opened PR [#159](https://github.com/mitsuki31/ytmp3-js/pull/159) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+4. 🎉 Merged PR [#158](https://github.com/mitsuki31/ytmp3-js/pull/158) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+5. 💪 Opened PR [#158](https://github.com/mitsuki31/ytmp3-js/pull/158) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+6. 🎉 Merged PR [#157](https://github.com/mitsuki31/ytmp3-js/pull/157) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+7. 💪 Opened PR [#157](https://github.com/mitsuki31/ytmp3-js/pull/157) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+8. 🎉 Merged PR [#156](https://github.com/mitsuki31/ytmp3-js/pull/156) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+9. 💪 Opened PR [#156](https://github.com/mitsuki31/ytmp3-js/pull/156) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+10. 💪 Opened PR [#228](https://github.com/shinyflvre/Mate-Engine/pull/228) in [shinyflvre/Mate-Engine](https://github.com/shinyflvre/Mate-Engine)
 <!--END_SECTION:activity-->
 
 </details>

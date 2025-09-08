@@ -96,7 +96,7 @@ I’m also learning **frontend development** (_even though I hated it before_), 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1018](https://github.com/LuanRT/YouTube.js/pull/1018#issuecomment-3240995379) in [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js)
-2. 💪 Opened PR [#1018](https://github.com/LuanRT/YouTube.js/pull/1018) in [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js)
+2. 💪 Opened PR [#1018](undefined) in [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js)
 3. 🎉 Merged PR [#159](https://github.com/mitsuki31/ytmp3-js/pull/159) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
 4. 💪 Opened PR [#159](https://github.com/mitsuki31/ytmp3-js/pull/159) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
 5. 🎉 Merged PR [#158](https://github.com/mitsuki31/ytmp3-js/pull/158) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)

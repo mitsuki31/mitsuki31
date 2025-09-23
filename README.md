@@ -95,15 +95,15 @@ I’m also learning **frontend development** (_even though I hated it before_), 
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#174](https://github.com/mitsuki31/ytmp3-js/pull/174) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-2. 🎉 Merged PR [#173](https://github.com/mitsuki31/ytmp3-js/pull/173) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-3. 💪 Opened PR [#173](https://github.com/mitsuki31/ytmp3-js/pull/173) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-4. 🚀 Published release [v1.2](https://github.com/mitsuki31/LowResify/releases/tag/v1.2.0) in [mitsuki31/LowResify](https://github.com/mitsuki31/LowResify)
-5. 🎉 Merged PR [#1](https://github.com/mitsuki31/LowResify/pull/1) in [mitsuki31/LowResify](https://github.com/mitsuki31/LowResify)
-6. 💪 Opened PR [#1](https://github.com/mitsuki31/LowResify/pull/1) in [mitsuki31/LowResify](https://github.com/mitsuki31/LowResify)
-7. 🚀 Published release [V1](https://github.com/mitsuki31/LowResify/releases/tag/v1.0.0) in [mitsuki31/LowResify](https://github.com/mitsuki31/LowResify)
-8. 🗣 Commented on [#1018](https://github.com/LuanRT/YouTube.js/pull/1018#issuecomment-3240995379) in [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js)
-9. 🎉 Merged PR [#156](https://github.com/mitsuki31/ytmp3-js/pull/156) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+1. ❌ Closed PR [#174](https://github.com/mitsuki31/ytmp3-js/pull/174) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+2. 💪 Opened PR [#174](https://github.com/mitsuki31/ytmp3-js/pull/174) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+3. 🎉 Merged PR [#173](https://github.com/mitsuki31/ytmp3-js/pull/173) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+4. 💪 Opened PR [#173](https://github.com/mitsuki31/ytmp3-js/pull/173) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+5. 🚀 Published release [v1.2](https://github.com/mitsuki31/LowResify/releases/tag/v1.2.0) in [mitsuki31/LowResify](https://github.com/mitsuki31/LowResify)
+6. 🎉 Merged PR [#1](https://github.com/mitsuki31/LowResify/pull/1) in [mitsuki31/LowResify](https://github.com/mitsuki31/LowResify)
+7. 💪 Opened PR [#1](https://github.com/mitsuki31/LowResify/pull/1) in [mitsuki31/LowResify](https://github.com/mitsuki31/LowResify)
+8. 🚀 Published release [V1](https://github.com/mitsuki31/LowResify/releases/tag/v1.0.0) in [mitsuki31/LowResify](https://github.com/mitsuki31/LowResify)
+9. 🗣 Commented on [#1018](https://github.com/LuanRT/YouTube.js/pull/1018#issuecomment-3240995379) in [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js)
 10. 💪 Opened PR [#156](https://github.com/mitsuki31/ytmp3-js/pull/156) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
 <!--END_SECTION:activity-->
 

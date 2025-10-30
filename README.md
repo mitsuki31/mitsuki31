@@ -95,8 +95,8 @@ I’m also learning **frontend development** (_even though I hated it before_), 
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1018](https://github.com/LuanRT/YouTube.js/pull/1018#issuecomment-3421145895) in [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js)
-2. ❌ Closed PR [#174](undefined) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+1. 🗣 Commented on [#3](https://github.com/mitsuki31/Neo-SkiArticle/pull/3#issuecomment-3468108767) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+2. 🗣 Commented on [#1018](https://github.com/LuanRT/YouTube.js/pull/1018#issuecomment-3421145895) in [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js)
 3. ❌ Labeled PR [#174](undefined) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
 4. ❌ Labeled PR [#174](undefined) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
 5. ❌ Labeled PR [#174](undefined) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)

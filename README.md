@@ -95,16 +95,16 @@ I’m also learning **frontend development** (_even though I hated it before_), 
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#4](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-2. ❌ Labeled PR [#4](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-3. ❌ Labeled PR [#4](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-4. 💪 Opened PR [#4](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-5. ❌ Assigned PR [#4](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-6. 🗣 Commented on [#3](https://github.com/mitsuki31/Neo-SkiArticle/pull/3#issuecomment-3468108767) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-7. 🗣 Commented on [#1018](https://github.com/LuanRT/YouTube.js/pull/1018#issuecomment-3421145895) in [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js)
-8. 💪 Opened PR [#174](undefined) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-9. ❌ Labeled PR [#173](undefined) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
-10. ❌ Labeled PR [#173](undefined) in [mitsuki31/ytmp3-js](https://github.com/mitsuki31/ytmp3-js)
+1. ❌ Labeled PR [#5](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+2. ❌ Labeled PR [#5](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+3. ❌ Labeled PR [#5](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+4. 💪 Opened PR [#5](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+5. ❌ Assigned PR [#5](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+6. ❌ Labeled PR [#4](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+7. ❌ Labeled PR [#4](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+8. ❌ Labeled PR [#4](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+9. 💪 Opened PR [#4](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+10. ❌ Assigned PR [#4](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
 <!--END_SECTION:activity-->
 
 </details>

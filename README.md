@@ -17,7 +17,7 @@
 <img id="headerBanner" src="./images/headerBanner.png" height="auto"/>
 
 ## 🖋️ About Me
-👋 I'm **Dhefa Gusni** — a software enthusiast from Indonesia with a strong interest in **CLI tools**, **API development**, and **networking**.
+Hi 👋, my actual name is **Dhefa Gusni** — a software enthusiast from Indonesia with a strong interest in **CLI tools**, **API development**, and **networking**.
 
 I'm deeply interested in building command-line tools, writing efficient utilities, and working with APIs to create seamless and scriptable developer experiences.
 My development workflow revolves around the terminal, and I enjoy crafting minimal, purposeful tools that solve real problems.
@@ -38,7 +38,7 @@ I’m also learning **frontend development** (_even though I hated it before_), 
 
 ---
 
-## 👾 Soft Skills
+## 👾 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,css,html,c,cpp,java,py,bash)](https://skillicons.dev)  
 [![Used Frameworks](https://skillicons.dev/icons?i=nextjs,vite,nodejs,bun,react,sass,tailwind,maven,arduino)](https://skillicons.dev)

@@ -95,16 +95,16 @@ I’m also learning **frontend development** (_even though I hated it before_), 
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Kiznaiverr/kunang-kunang/pull/1#issuecomment-3529426993) in [Kiznaiverr/kunang-kunang](https://github.com/Kiznaiverr/kunang-kunang)
-2. 💪 Opened PR [#1](undefined) in [Kiznaiverr/kunang-kunang](https://github.com/Kiznaiverr/kunang-kunang)
-3. ❌ Labeled PR [#6](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-4. ❌ Labeled PR [#6](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-5. 💪 Opened PR [#6](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-6. ❌ Assigned PR [#6](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-7. ❌ Labeled PR [#5](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-8. ❌ Labeled PR [#5](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-9. ❌ Labeled PR [#5](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-10. 💪 Opened PR [#5](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+1. ❌ Labeled PR [#7](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+2. ❌ Labeled PR [#7](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+3. ❌ Labeled PR [#7](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+4. ❌ Assigned PR [#7](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+5. 💪 Opened PR [#7](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+6. 🗣 Commented on [#1](https://github.com/Kiznaiverr/kunang-kunang/pull/1#issuecomment-3529426993) in [Kiznaiverr/kunang-kunang](https://github.com/Kiznaiverr/kunang-kunang)
+7. 💪 Opened PR [#1](undefined) in [Kiznaiverr/kunang-kunang](https://github.com/Kiznaiverr/kunang-kunang)
+8. ❌ Labeled PR [#6](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+9. ❌ Labeled PR [#6](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+10. 💪 Opened PR [#6](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
 <!--END_SECTION:activity-->
 
 </details>

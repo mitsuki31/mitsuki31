@@ -17,12 +17,13 @@ jobs:
       fail-fast: false
 
     env:
-      committer: mitsuki31  # default is github-actions[bot]
-      committer-email: '117973493+mitsuki31@users.noreply.github.com'
+      committer: mitsuki31
+      committer-email: 'dhefam31@proton.me'
       max-lines: 10
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v5
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_ACTION_TOKEN }}

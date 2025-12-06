@@ -95,16 +95,16 @@ I’m also learning **frontend development** (_even though I hated it before_), 
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#18](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-2. 💪 Opened PR [#18](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-3. ❌ Assigned PR [#18](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-4. ❌ Merged PR [#17](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-5. ❌ Labeled PR [#17](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+1. ❌ Merged PR [#18](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+2. ❌ Labeled PR [#18](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+3. 💪 Opened PR [#18](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+4. ❌ Assigned PR [#18](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+5. ❌ Merged PR [#17](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
 6. ❌ Labeled PR [#17](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
 7. ❌ Labeled PR [#17](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-8. ❌ Assigned PR [#17](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-9. 💪 Opened PR [#17](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-10. ❌ Merged PR [#16](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+8. ❌ Labeled PR [#17](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+9. ❌ Assigned PR [#17](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+10. 💪 Opened PR [#17](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
 <!--END_SECTION:activity-->
 
 </details>

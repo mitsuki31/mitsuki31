@@ -95,16 +95,16 @@ I’m also learning **frontend development** (_even though I hated it before_), 
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#16](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-2. ❌ Closed PR [#14](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-3. ❌ Labeled PR [#16](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-4. 💪 Opened PR [#16](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-5. ❌ Assigned PR [#16](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-6. ❌ Merged PR [#15](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-7. ❌ Labeled PR [#15](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-8. ❌ Assigned PR [#15](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-9. 💪 Opened PR [#15](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-10. 🗣 Commented on [#14](https://github.com/mitsuki31/Neo-SkiArticle/pull/14#issuecomment-3612397236) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+1. ❌ Labeled PR [#17](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+2. ❌ Labeled PR [#17](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+3. ❌ Labeled PR [#17](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+4. ❌ Assigned PR [#17](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+5. 💪 Opened PR [#17](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+6. ❌ Merged PR [#16](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+7. ❌ Closed PR [#14](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+8. ❌ Labeled PR [#16](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+9. 💪 Opened PR [#16](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+10. ❌ Assigned PR [#16](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
 <!--END_SECTION:activity-->
 
 </details>

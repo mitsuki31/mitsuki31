@@ -95,16 +95,16 @@ I’m also learning **frontend development** (_even though I hated it before_), 
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#10](undefined) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
+1. 🗣 Commented on [#10](https://github.com/mitsuki31/lsfnd/pull/10#issuecomment-3640597112) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
 2. ❌ Labeled PR [#10](undefined) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
 3. ❌ Labeled PR [#10](undefined) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
-4. 💪 Opened PR [#10](undefined) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
-5. ❌ Assigned PR [#10](undefined) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
-6. ❌ Merged PR [#18](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-7. ❌ Labeled PR [#18](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-8. 💪 Opened PR [#18](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-9. ❌ Assigned PR [#18](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-10. ❌ Merged PR [#17](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+4. ❌ Labeled PR [#10](undefined) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
+5. 💪 Opened PR [#10](undefined) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
+6. ❌ Assigned PR [#10](undefined) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
+7. ❌ Merged PR [#18](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+8. ❌ Labeled PR [#18](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+9. 💪 Opened PR [#18](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+10. ❌ Assigned PR [#18](undefined) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
 <!--END_SECTION:activity-->
 
 </details>

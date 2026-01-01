@@ -96,15 +96,15 @@ I’m also learning **frontend development** (_even though I hated it before_), 
 
 <!--START_SECTION:activity-->
 1. 🚀 Published release [v1.2.0](https://github.com/mitsuki31/lsfnd/releases/tag/v1.2.0) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
-2. ❌ Merged PR [#12](undefined) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
-3. ❌ Labeled PR [#12](undefined) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
-4. ❌ Labeled PR [#12](undefined) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
-5. ❌ Labeled PR [#12](undefined) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
-6. 💪 Opened PR [#12](undefined) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
-7. ❌ Assigned PR [#12](undefined) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
-8. ❌ Merged PR [#11](undefined) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
-9. ❌ Labeled PR [#11](undefined) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
-10. ❌ Labeled PR [#11](undefined) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
+2. 🎉 Merged PR [#12](https://github.com/mitsuki31/lsfnd/pull/12) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
+3. ℹ️ Labeled PR [#12](https://github.com/mitsuki31/lsfnd/pull/12) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
+4. ℹ️ Labeled PR [#12](https://github.com/mitsuki31/lsfnd/pull/12) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
+5. ℹ️ Labeled PR [#12](https://github.com/mitsuki31/lsfnd/pull/12) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
+6. 💪 Opened PR [#12](https://github.com/mitsuki31/lsfnd/pull/12) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
+7. ℹ️ Assigned PR [#12](https://github.com/mitsuki31/lsfnd/pull/12) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
+8. 🎉 Merged PR [#11](https://github.com/mitsuki31/lsfnd/pull/11) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
+9. ℹ️ Labeled PR [#11](https://github.com/mitsuki31/lsfnd/pull/11) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
+10. ℹ️ Labeled PR [#11](https://github.com/mitsuki31/lsfnd/pull/11) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
 <!--END_SECTION:activity-->
 
 </details>

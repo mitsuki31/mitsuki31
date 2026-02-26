@@ -95,8 +95,8 @@ I’m also learning **frontend development** (_even though I hated it before_), 
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.2.0](https://github.com/mitsuki31/lsfnd/releases/tag/v1.2.0) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
-2. 🎉 Merged PR [#12](https://github.com/mitsuki31/lsfnd/pull/12) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
+1. ℹ️ Labeled PR [#23](https://github.com/mitsuki31/Neo-SkiArticle/pull/23) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+2. ℹ️ Labeled PR [#23](https://github.com/mitsuki31/Neo-SkiArticle/pull/23) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
 3. ℹ️ Labeled PR [#12](https://github.com/mitsuki31/lsfnd/pull/12) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
 4. ℹ️ Labeled PR [#12](https://github.com/mitsuki31/lsfnd/pull/12) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)
 5. ℹ️ Labeled PR [#12](https://github.com/mitsuki31/lsfnd/pull/12) in [mitsuki31/lsfnd](https://github.com/mitsuki31/lsfnd)

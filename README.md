@@ -95,16 +95,16 @@ I’m also learning **frontend development** (_even though I hated it before_), 
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#19](https://github.com/mitsuki31/Neo-SkiArticle/pull/19) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-2. ℹ️ Labeled PR [#19](https://github.com/mitsuki31/Neo-SkiArticle/pull/19) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-3. ℹ️ Labeled PR [#19](https://github.com/mitsuki31/Neo-SkiArticle/pull/19) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-4. ℹ️ Labeled PR [#25](https://github.com/mitsuki31/Neo-SkiArticle/pull/25) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-5. ℹ️ Labeled PR [#25](https://github.com/mitsuki31/Neo-SkiArticle/pull/25) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-6. ℹ️ Labeled PR [#25](https://github.com/mitsuki31/Neo-SkiArticle/pull/25) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-7. ℹ️ Assigned PR [#25](https://github.com/mitsuki31/Neo-SkiArticle/pull/25) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-8. ℹ️ Labeled PR [#24](https://github.com/mitsuki31/Neo-SkiArticle/pull/24) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-9. ℹ️ Labeled PR [#24](https://github.com/mitsuki31/Neo-SkiArticle/pull/24) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-10. ℹ️ Labeled PR [#24](https://github.com/mitsuki31/Neo-SkiArticle/pull/24) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+1. ℹ️ Labeled PR [#28](https://github.com/mitsuki31/Neo-SkiArticle/pull/28) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+2. ℹ️ Labeled PR [#28](https://github.com/mitsuki31/Neo-SkiArticle/pull/28) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+3. ℹ️ Assigned PR [#28](https://github.com/mitsuki31/Neo-SkiArticle/pull/28) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+4. ℹ️ Labeled PR [#19](https://github.com/mitsuki31/Neo-SkiArticle/pull/19) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+5. ℹ️ Labeled PR [#19](https://github.com/mitsuki31/Neo-SkiArticle/pull/19) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+6. ℹ️ Labeled PR [#19](https://github.com/mitsuki31/Neo-SkiArticle/pull/19) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+7. ℹ️ Labeled PR [#25](https://github.com/mitsuki31/Neo-SkiArticle/pull/25) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+8. ℹ️ Labeled PR [#25](https://github.com/mitsuki31/Neo-SkiArticle/pull/25) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+9. ℹ️ Labeled PR [#25](https://github.com/mitsuki31/Neo-SkiArticle/pull/25) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+10. ℹ️ Assigned PR [#25](https://github.com/mitsuki31/Neo-SkiArticle/pull/25) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
 <!--END_SECTION:activity-->
 
 </details>

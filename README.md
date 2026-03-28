@@ -95,16 +95,16 @@ I’m also learning **frontend development** (_even though I hated it before_), 
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/mitsuki31/Neo-SkiArticle/pull/30) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-2. ℹ️ Labeled PR [#30](https://github.com/mitsuki31/Neo-SkiArticle/pull/30) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-3. 💪 Opened PR [#30](https://github.com/mitsuki31/Neo-SkiArticle/pull/30) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-4. ℹ️ Assigned PR [#30](https://github.com/mitsuki31/Neo-SkiArticle/pull/30) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-5. 🗣 Commented on [#29](https://github.com/mitsuki31/Neo-SkiArticle/pull/29#issuecomment-4098532496) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-6. ℹ️ Labeled PR [#29](https://github.com/mitsuki31/Neo-SkiArticle/pull/29) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-7. ℹ️ Labeled PR [#29](https://github.com/mitsuki31/Neo-SkiArticle/pull/29) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-8. ℹ️ Assigned PR [#29](https://github.com/mitsuki31/Neo-SkiArticle/pull/29) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-9. 🗣 Commented on [#27](https://github.com/mitsuki31/Neo-SkiArticle/pull/27#issuecomment-4098428720) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-10. 🗣 Commented on [#28](https://github.com/mitsuki31/Neo-SkiArticle/pull/28#issuecomment-4098411449) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+1. ℹ️ Labeled PR [#1](https://github.com/mitsuki31/bmi.calc/pull/1) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
+2. ℹ️ Labeled PR [#1](https://github.com/mitsuki31/bmi.calc/pull/1) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
+3. ℹ️ Assigned PR [#1](https://github.com/mitsuki31/bmi.calc/pull/1) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
+4. 💪 Opened PR [#1](https://github.com/mitsuki31/bmi.calc/pull/1) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
+5. 🎉 Merged PR [#30](https://github.com/mitsuki31/Neo-SkiArticle/pull/30) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+6. ℹ️ Labeled PR [#30](https://github.com/mitsuki31/Neo-SkiArticle/pull/30) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+7. 💪 Opened PR [#30](https://github.com/mitsuki31/Neo-SkiArticle/pull/30) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+8. ℹ️ Assigned PR [#30](https://github.com/mitsuki31/Neo-SkiArticle/pull/30) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+9. 🗣 Commented on [#29](https://github.com/mitsuki31/Neo-SkiArticle/pull/29#issuecomment-4098532496) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+10. ℹ️ Labeled PR [#29](https://github.com/mitsuki31/Neo-SkiArticle/pull/29) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
 <!--END_SECTION:activity-->
 
 </details>

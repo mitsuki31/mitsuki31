@@ -103,15 +103,15 @@ _**Even if you fail a thousand times, it doesn't mean you'll fail at everything.
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#4](https://github.com/mitsuki31/bmi.calc/pull/4) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
+1. 🎉 Merged PR [#4](https://github.com/mitsuki31/bmi.calc/pull/4) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
 2. ℹ️ Labeled PR [#4](https://github.com/mitsuki31/bmi.calc/pull/4) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
-3. ℹ️ Assigned PR [#4](https://github.com/mitsuki31/bmi.calc/pull/4) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
-4. 💪 Opened PR [#4](https://github.com/mitsuki31/bmi.calc/pull/4) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
-5. 🎉 Merged PR [#3](https://github.com/mitsuki31/bmi.calc/pull/3) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
-6. ℹ️ Labeled PR [#3](https://github.com/mitsuki31/bmi.calc/pull/3) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
+3. ℹ️ Labeled PR [#4](https://github.com/mitsuki31/bmi.calc/pull/4) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
+4. ℹ️ Assigned PR [#4](https://github.com/mitsuki31/bmi.calc/pull/4) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
+5. 💪 Opened PR [#4](https://github.com/mitsuki31/bmi.calc/pull/4) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
+6. 🎉 Merged PR [#3](https://github.com/mitsuki31/bmi.calc/pull/3) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
 7. ℹ️ Labeled PR [#3](https://github.com/mitsuki31/bmi.calc/pull/3) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
-8. ℹ️ Assigned PR [#3](https://github.com/mitsuki31/bmi.calc/pull/3) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
-9. ℹ️ Labeled PR [#3](https://github.com/mitsuki31/bmi.calc/pull/3) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
+8. ℹ️ Labeled PR [#3](https://github.com/mitsuki31/bmi.calc/pull/3) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
+9. ℹ️ Assigned PR [#3](https://github.com/mitsuki31/bmi.calc/pull/3) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
 10. ℹ️ Labeled PR [#3](https://github.com/mitsuki31/bmi.calc/pull/3) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
 <!--END_SECTION:activity-->
 

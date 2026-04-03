@@ -26,13 +26,19 @@ I’m also learning **frontend development** (_even though I hated it before_), 
 
 <!-- 🌱 Currently studying **Electrical Engineering**, which helps broaden my perspective between software and hardware. -->
 
-<br/>
+Sometimes I play with visual designs & photos on **Instagram**. Let's connect!
+
+[![Instagram @ryumii_43](https://img.shields.io/badge/ryumii__43-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=white
+)](https://instagram.com/ryumii_43)
+
+---
+
 <div align="center">
 
-> **⌊ 千回失敗しても、すべてに失敗するわけじゃない。 ⌉**  
-> _(Senkai shippai shitemo, subete ni shippai suru wake janai.)_
-> 
-> _**Even if you fail a thousand times, it doesn't mean you'll fail at everything.**_
+**⌊ 千回失敗しても、すべてに失敗するわけじゃない。 ⌉**  
+_(Senkai shippai shitemo, subete ni shippai suru wake janai.)_
+
+_**Even if you fail a thousand times, it doesn't mean you'll fail at everything.**_
 
 </div>
 
@@ -97,15 +103,15 @@ I’m also learning **frontend development** (_even though I hated it before_), 
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/mitsuki31/bmi.calc/pull/4) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
+1. ℹ️ Labeled PR [#4](https://github.com/mitsuki31/bmi.calc/pull/4) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
 2. ℹ️ Labeled PR [#4](https://github.com/mitsuki31/bmi.calc/pull/4) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
-3. ℹ️ Labeled PR [#4](https://github.com/mitsuki31/bmi.calc/pull/4) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
-4. ℹ️ Assigned PR [#4](https://github.com/mitsuki31/bmi.calc/pull/4) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
-5. 💪 Opened PR [#4](https://github.com/mitsuki31/bmi.calc/pull/4) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
-6. 🎉 Merged PR [#3](https://github.com/mitsuki31/bmi.calc/pull/3) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
+3. ℹ️ Assigned PR [#4](https://github.com/mitsuki31/bmi.calc/pull/4) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
+4. 💪 Opened PR [#4](https://github.com/mitsuki31/bmi.calc/pull/4) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
+5. 🎉 Merged PR [#3](https://github.com/mitsuki31/bmi.calc/pull/3) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
+6. ℹ️ Labeled PR [#3](https://github.com/mitsuki31/bmi.calc/pull/3) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
 7. ℹ️ Labeled PR [#3](https://github.com/mitsuki31/bmi.calc/pull/3) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
-8. ℹ️ Labeled PR [#3](https://github.com/mitsuki31/bmi.calc/pull/3) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
-9. ℹ️ Assigned PR [#3](https://github.com/mitsuki31/bmi.calc/pull/3) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
+8. ℹ️ Assigned PR [#3](https://github.com/mitsuki31/bmi.calc/pull/3) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
+9. ℹ️ Labeled PR [#3](https://github.com/mitsuki31/bmi.calc/pull/3) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
 10. ℹ️ Labeled PR [#3](https://github.com/mitsuki31/bmi.calc/pull/3) in [mitsuki31/bmi.calc](https://github.com/mitsuki31/bmi.calc)
 <!--END_SECTION:activity-->
 

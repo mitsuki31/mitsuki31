@@ -22,9 +22,9 @@ Hi 👋, my actual name is **Dhefa Gusni** — a software enthusiast from Indone
 I'm deeply interested in building command-line tools, writing efficient utilities, and working with APIs to create seamless and scriptable developer experiences.
 My development workflow revolves around the terminal, and I enjoy crafting minimal, purposeful tools that solve real problems.
 
-I’m also learning **frontend development** (_even though I hated it before_), aiming to create fast & lightweight websites with [**Next.js**](https://nextjs.org/) and other modern frameworks.
+I’m also learning **frontend development** (_even though I hated it before_), aiming to create fast & lightweight websites with [**Next.js**](https://nextjs.org/), [**Astro**](https://astro.build/) and other modern frameworks.
 
-🌱 Currently studying **Electrical Engineering**, which helps broaden my perspective between software and hardware.
+<!-- 🌱 Currently studying **Electrical Engineering**, which helps broaden my perspective between software and hardware. -->
 
 <br/>
 <div align="center">
@@ -51,6 +51,7 @@ I’m also learning **frontend development** (_even though I hated it before_), 
 
 ## 🔭 My Statistics
 
+<!--
 <picture id="stats">
     <source 
             srcset="https://github-readme-stats.vercel.app/api?username=mitsuki31&show_icons=true&theme=tokyonight&include_all_commits=true&show_private=true&hide=stars"
@@ -74,6 +75,7 @@ I’m also learning **frontend development** (_even though I hated it before_), 
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitsuki31&layout=donut&langs_count=15&count_private=true" />
 </picture>
+-->
 
 <picture id="profile-summary">
     <source
@@ -87,7 +89,7 @@ I’m also learning **frontend development** (_even though I hated it before_), 
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mitsuki31" />
 </picture>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=mitsuki31&theme=algolia&column=-1&rank=-C,-D&title=-Experience&no-bg=true)
+![Trophy](https://gh-trophy.cdnsoft.net/?username=mitsuki31&theme=algolia&column=-1&rank=-C,-D&title=-Experience&no-bg=true)
 
 <br/>
 

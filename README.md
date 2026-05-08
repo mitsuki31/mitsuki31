@@ -103,16 +103,16 @@ _**Even if you fail a thousand times, it doesn't mean you'll fail at everything.
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#1](https://github.com/mitsuki31/tguard-js/pull/1) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
-2. ℹ️ Assigned PR [#1](https://github.com/mitsuki31/tguard-js/pull/1) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
-3. 💪 Opened PR [#1](https://github.com/mitsuki31/tguard-js/pull/1) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
-4. 🎉 Merged PR [#3](https://github.com/mitsuki31/xls2csv/pull/3) in [mitsuki31/xls2csv](https://github.com/mitsuki31/xls2csv)
-5. ℹ️ Labeled PR [#3](https://github.com/mitsuki31/xls2csv/pull/3) in [mitsuki31/xls2csv](https://github.com/mitsuki31/xls2csv)
-6. ℹ️ Assigned PR [#3](https://github.com/mitsuki31/xls2csv/pull/3) in [mitsuki31/xls2csv](https://github.com/mitsuki31/xls2csv)
-7. 💪 Opened PR [#3](https://github.com/mitsuki31/xls2csv/pull/3) in [mitsuki31/xls2csv](https://github.com/mitsuki31/xls2csv)
-8. 🎉 Merged PR [#2](https://github.com/mitsuki31/xls2csv/pull/2) in [mitsuki31/xls2csv](https://github.com/mitsuki31/xls2csv)
-9. ℹ️ Assigned PR [#2](https://github.com/mitsuki31/xls2csv/pull/2) in [mitsuki31/xls2csv](https://github.com/mitsuki31/xls2csv)
-10. 💪 Opened PR [#2](https://github.com/mitsuki31/xls2csv/pull/2) in [mitsuki31/xls2csv](https://github.com/mitsuki31/xls2csv)
+1. 🎉 Merged PR [#1](https://github.com/mitsuki31/tguard-js/pull/1) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
+2. ℹ️ Labeled PR [#1](https://github.com/mitsuki31/tguard-js/pull/1) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
+3. ℹ️ Assigned PR [#1](https://github.com/mitsuki31/tguard-js/pull/1) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
+4. 💪 Opened PR [#1](https://github.com/mitsuki31/tguard-js/pull/1) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
+5. 🎉 Merged PR [#3](https://github.com/mitsuki31/xls2csv/pull/3) in [mitsuki31/xls2csv](https://github.com/mitsuki31/xls2csv)
+6. ℹ️ Labeled PR [#3](https://github.com/mitsuki31/xls2csv/pull/3) in [mitsuki31/xls2csv](https://github.com/mitsuki31/xls2csv)
+7. ℹ️ Assigned PR [#3](https://github.com/mitsuki31/xls2csv/pull/3) in [mitsuki31/xls2csv](https://github.com/mitsuki31/xls2csv)
+8. 💪 Opened PR [#3](https://github.com/mitsuki31/xls2csv/pull/3) in [mitsuki31/xls2csv](https://github.com/mitsuki31/xls2csv)
+9. 🎉 Merged PR [#2](https://github.com/mitsuki31/xls2csv/pull/2) in [mitsuki31/xls2csv](https://github.com/mitsuki31/xls2csv)
+10. ℹ️ Assigned PR [#2](https://github.com/mitsuki31/xls2csv/pull/2) in [mitsuki31/xls2csv](https://github.com/mitsuki31/xls2csv)
 <!--END_SECTION:activity-->
 
 </details>

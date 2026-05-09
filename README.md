@@ -103,16 +103,16 @@ _**Even if you fail a thousand times, it doesn't mean you'll fail at everything.
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/mitsuki31/tguard-js/pull/3) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
-2. ℹ️ Labeled PR [#3](https://github.com/mitsuki31/tguard-js/pull/3) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
-3. ℹ️ Assigned PR [#3](https://github.com/mitsuki31/tguard-js/pull/3) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
-4. 💪 Opened PR [#3](https://github.com/mitsuki31/tguard-js/pull/3) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
-5. 🎉 Merged PR [#2](https://github.com/mitsuki31/tguard-js/pull/2) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
-6. ℹ️ Labeled PR [#2](https://github.com/mitsuki31/tguard-js/pull/2) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
-7. ℹ️ Assigned PR [#2](https://github.com/mitsuki31/tguard-js/pull/2) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
-8. 💪 Opened PR [#2](https://github.com/mitsuki31/tguard-js/pull/2) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
-9. 🎉 Merged PR [#1](https://github.com/mitsuki31/tguard-js/pull/1) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
-10. ℹ️ Labeled PR [#1](https://github.com/mitsuki31/tguard-js/pull/1) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
+1. ℹ️ Assigned PR [#31](https://github.com/mitsuki31/Neo-SkiArticle/pull/31) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+2. 🎉 Merged PR [#3](https://github.com/mitsuki31/tguard-js/pull/3) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
+3. ℹ️ Labeled PR [#3](https://github.com/mitsuki31/tguard-js/pull/3) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
+4. ℹ️ Assigned PR [#3](https://github.com/mitsuki31/tguard-js/pull/3) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
+5. 💪 Opened PR [#3](https://github.com/mitsuki31/tguard-js/pull/3) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
+6. 🎉 Merged PR [#2](https://github.com/mitsuki31/tguard-js/pull/2) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
+7. ℹ️ Labeled PR [#2](https://github.com/mitsuki31/tguard-js/pull/2) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
+8. ℹ️ Assigned PR [#2](https://github.com/mitsuki31/tguard-js/pull/2) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
+9. 💪 Opened PR [#2](https://github.com/mitsuki31/tguard-js/pull/2) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
+10. 🎉 Merged PR [#1](https://github.com/mitsuki31/tguard-js/pull/1) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
 <!--END_SECTION:activity-->
 
 </details>

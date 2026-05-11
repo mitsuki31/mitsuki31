@@ -103,16 +103,16 @@ _**Even if you fail a thousand times, it doesn't mean you'll fail at everything.
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/mitsuki31/Neo-SkiArticle/pull/37) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-2. ℹ️ Assigned PR [#37](https://github.com/mitsuki31/Neo-SkiArticle/pull/37) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-3. ℹ️ Labeled PR [#37](https://github.com/mitsuki31/Neo-SkiArticle/pull/37) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-4. 💪 Opened PR [#37](https://github.com/mitsuki31/Neo-SkiArticle/pull/37) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-5. 🎉 Merged PR [#36](https://github.com/mitsuki31/Neo-SkiArticle/pull/36) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-6. ℹ️ Labeled PR [#36](https://github.com/mitsuki31/Neo-SkiArticle/pull/36) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-7. ℹ️ Labeled PR [#36](https://github.com/mitsuki31/Neo-SkiArticle/pull/36) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-8. ℹ️ Assigned PR [#36](https://github.com/mitsuki31/Neo-SkiArticle/pull/36) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-9. 💪 Opened PR [#36](https://github.com/mitsuki31/Neo-SkiArticle/pull/36) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-10. 🎉 Merged PR [#35](https://github.com/mitsuki31/Neo-SkiArticle/pull/35) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+1. 🚀 Published release [tguard-js@1.0.1](https://github.com/mitsuki31/tguard-js/releases/tag/v1.0.1) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
+2. 🚀 Published release [tguard-js@1.0.0](https://github.com/mitsuki31/tguard-js/releases/tag/v1.0.0) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
+3. 🎉 Merged PR [#37](https://github.com/mitsuki31/Neo-SkiArticle/pull/37) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+4. ℹ️ Assigned PR [#37](https://github.com/mitsuki31/Neo-SkiArticle/pull/37) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+5. ℹ️ Labeled PR [#37](https://github.com/mitsuki31/Neo-SkiArticle/pull/37) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+6. 💪 Opened PR [#37](https://github.com/mitsuki31/Neo-SkiArticle/pull/37) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+7. 🎉 Merged PR [#36](https://github.com/mitsuki31/Neo-SkiArticle/pull/36) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+8. ℹ️ Labeled PR [#36](https://github.com/mitsuki31/Neo-SkiArticle/pull/36) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+9. ℹ️ Labeled PR [#36](https://github.com/mitsuki31/Neo-SkiArticle/pull/36) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+10. ℹ️ Assigned PR [#36](https://github.com/mitsuki31/Neo-SkiArticle/pull/36) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
 <!--END_SECTION:activity-->
 
 </details>

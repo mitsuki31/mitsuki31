@@ -103,16 +103,16 @@ _**Even if you fail a thousand times, it doesn't mean you'll fail at everything.
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [tguard-js@1.0.1](https://github.com/mitsuki31/tguard-js/releases/tag/v1.0.1) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
-2. 🚀 Published release [tguard-js@1.0.0](https://github.com/mitsuki31/tguard-js/releases/tag/v1.0.0) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
-3. 🎉 Merged PR [#37](https://github.com/mitsuki31/Neo-SkiArticle/pull/37) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-4. ℹ️ Assigned PR [#37](https://github.com/mitsuki31/Neo-SkiArticle/pull/37) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-5. ℹ️ Labeled PR [#37](https://github.com/mitsuki31/Neo-SkiArticle/pull/37) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-6. 💪 Opened PR [#37](https://github.com/mitsuki31/Neo-SkiArticle/pull/37) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-7. 🎉 Merged PR [#36](https://github.com/mitsuki31/Neo-SkiArticle/pull/36) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-8. ℹ️ Labeled PR [#36](https://github.com/mitsuki31/Neo-SkiArticle/pull/36) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-9. ℹ️ Labeled PR [#36](https://github.com/mitsuki31/Neo-SkiArticle/pull/36) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
-10. ℹ️ Assigned PR [#36](https://github.com/mitsuki31/Neo-SkiArticle/pull/36) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+1. 🗣 Commented on [#1](https://github.com/frayude/throttnux/pull/1#issuecomment-4489151699) in [frayude/throttnux](https://github.com/frayude/throttnux)
+2. 💪 Opened PR [#1](https://github.com/frayude/throttnux/pull/1) in [frayude/throttnux](https://github.com/frayude/throttnux)
+3. 🚀 Published release [tguard-js@1.0.1](https://github.com/mitsuki31/tguard-js/releases/tag/v1.0.1) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
+4. 🚀 Published release [tguard-js@1.0.0](https://github.com/mitsuki31/tguard-js/releases/tag/v1.0.0) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
+5. 🎉 Merged PR [#37](https://github.com/mitsuki31/Neo-SkiArticle/pull/37) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+6. ℹ️ Assigned PR [#37](https://github.com/mitsuki31/Neo-SkiArticle/pull/37) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+7. ℹ️ Labeled PR [#37](https://github.com/mitsuki31/Neo-SkiArticle/pull/37) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+8. 💪 Opened PR [#37](https://github.com/mitsuki31/Neo-SkiArticle/pull/37) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+9. 🎉 Merged PR [#36](https://github.com/mitsuki31/Neo-SkiArticle/pull/36) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
+10. ℹ️ Labeled PR [#36](https://github.com/mitsuki31/Neo-SkiArticle/pull/36) in [mitsuki31/Neo-SkiArticle](https://github.com/mitsuki31/Neo-SkiArticle)
 <!--END_SECTION:activity-->
 
 </details>

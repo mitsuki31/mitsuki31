@@ -103,16 +103,16 @@ _**Even if you fail a thousand times, it doesn't mean you'll fail at everything.
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/indravoyager/xidown/pull/3) in [indravoyager/xidown](https://github.com/indravoyager/xidown)
-2. 🗣 Commented on [#2](https://github.com/indravoyager/xidown/pull/2#issuecomment-4800585585) in [indravoyager/xidown](https://github.com/indravoyager/xidown)
-3. 🎉 Merged PR [#2](https://github.com/indravoyager/xidown/pull/2) in [indravoyager/xidown](https://github.com/indravoyager/xidown)
-4. 🗣 Commented on [#2](https://github.com/indravoyager/xidown/pull/2#issuecomment-4800662358) in [indravoyager/xidown](https://github.com/indravoyager/xidown)
-5. 💪 Opened PR [#2](https://github.com/indravoyager/xidown/pull/2) in [indravoyager/xidown](https://github.com/indravoyager/xidown)
-6. 🚀 Published release [tguard-js@1.1.0](https://github.com/mitsuki31/tguard-js/releases/tag/v1.1.0) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
-7. 🎉 Merged PR [#5](https://github.com/mitsuki31/tguard-js/pull/5) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
-8. ℹ️ Labeled PR [#5](https://github.com/mitsuki31/tguard-js/pull/5) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
-9. ℹ️ Labeled PR [#5](https://github.com/mitsuki31/tguard-js/pull/5) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
-10. ℹ️ Assigned PR [#5](https://github.com/mitsuki31/tguard-js/pull/5) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
+1. 🗣 Commented on [#3](https://github.com/indravoyager/xidown/pull/3#issuecomment-4840630871) in [indravoyager/xidown](https://github.com/indravoyager/xidown)
+2. 🗣 Commented on [#3](https://github.com/indravoyager/xidown/pull/3#issuecomment-4840165956) in [indravoyager/xidown](https://github.com/indravoyager/xidown)
+3. 💪 Opened PR [#3](https://github.com/indravoyager/xidown/pull/3) in [indravoyager/xidown](https://github.com/indravoyager/xidown)
+4. 🗣 Commented on [#2](https://github.com/indravoyager/xidown/pull/2#issuecomment-4800585585) in [indravoyager/xidown](https://github.com/indravoyager/xidown)
+5. 🎉 Merged PR [#2](https://github.com/indravoyager/xidown/pull/2) in [indravoyager/xidown](https://github.com/indravoyager/xidown)
+6. 🗣 Commented on [#2](https://github.com/indravoyager/xidown/pull/2#issuecomment-4800662358) in [indravoyager/xidown](https://github.com/indravoyager/xidown)
+7. 💪 Opened PR [#2](https://github.com/indravoyager/xidown/pull/2) in [indravoyager/xidown](https://github.com/indravoyager/xidown)
+8. 🚀 Published release [tguard-js@1.1.0](https://github.com/mitsuki31/tguard-js/releases/tag/v1.1.0) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
+9. 🎉 Merged PR [#5](https://github.com/mitsuki31/tguard-js/pull/5) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
+10. ℹ️ Labeled PR [#5](https://github.com/mitsuki31/tguard-js/pull/5) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
 <!--END_SECTION:activity-->
 
 </details>

@@ -83,19 +83,14 @@ _**Even if you fail a thousand times, it doesn't mean you'll fail at everything.
 </picture>
 -->
 
-<picture id="profile-summary">
-    <source
-            srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mitsuki31&theme=tokyonight"
-            media="(prefers-color-scheme: dark)"
-    />
-    <source
-            srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mitsuki31&theme=github"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mitsuki31" />
-</picture>
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=117973493" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=117973493&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @mitsuki31" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=117973493&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
-![Trophy](https://gh-trophy.cdnsoft.net/?username=mitsuki31&theme=algolia&column=-1&rank=-C,-D&title=-Experience&no-bg=true)
+![Trophy](https://gh-trophy.cdnsoft.net/?username=mitsuki31&theme=nord&column=-1&rank=-C,-D&title=-Experience&no-frame=true)
 
 <br/>
 

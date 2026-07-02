@@ -83,7 +83,7 @@ _**Even if you fail a thousand times, it doesn't mean you'll fail at everything.
 </picture>
 -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=117973493" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=117973493" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=117973493&image_size=auto&color_scheme=dark" width="771" height="auto">
     <img alt="Dashboard stats of @mitsuki31" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=117973493&image_size=auto&color_scheme=light" width="771" height="auto">

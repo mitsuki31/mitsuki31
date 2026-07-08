@@ -98,16 +98,16 @@ _**Even if you fail a thousand times, it doesn't mean you'll fail at everything.
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/indravoyager/cypy/pull/5) in [indravoyager/cypy](https://github.com/indravoyager/cypy)
-2. 🎉 Merged PR [#3](https://github.com/indravoyager/xidown/pull/3) in [indravoyager/xidown](https://github.com/indravoyager/xidown)
-3. 🗣 Commented on [#3](https://github.com/indravoyager/xidown/pull/3#issuecomment-4840630871) in [indravoyager/xidown](https://github.com/indravoyager/xidown)
-4. 🗣 Commented on [#3](https://github.com/indravoyager/xidown/pull/3#issuecomment-4840165956) in [indravoyager/xidown](https://github.com/indravoyager/xidown)
-5. 💪 Opened PR [#3](https://github.com/indravoyager/xidown/pull/3) in [indravoyager/xidown](https://github.com/indravoyager/xidown)
-6. 🗣 Commented on [#2](https://github.com/indravoyager/xidown/pull/2#issuecomment-4800585585) in [indravoyager/xidown](https://github.com/indravoyager/xidown)
-7. 🎉 Merged PR [#2](https://github.com/indravoyager/xidown/pull/2) in [indravoyager/xidown](https://github.com/indravoyager/xidown)
-8. 🗣 Commented on [#2](https://github.com/indravoyager/xidown/pull/2#issuecomment-4800662358) in [indravoyager/xidown](https://github.com/indravoyager/xidown)
-9. 💪 Opened PR [#2](https://github.com/indravoyager/xidown/pull/2) in [indravoyager/xidown](https://github.com/indravoyager/xidown)
-10. 🚀 Published release [tguard-js@1.1.0](https://github.com/mitsuki31/tguard-js/releases/tag/v1.1.0) in [mitsuki31/tguard-js](https://github.com/mitsuki31/tguard-js)
+1. 💪 Opened PR [#9](https://github.com/indravoyager/cypy/pull/9) in [indravoyager/cypy](https://github.com/indravoyager/cypy)
+2. 💪 Opened PR [#5](https://github.com/indravoyager/cypy/pull/5) in [indravoyager/cypy](https://github.com/indravoyager/cypy)
+3. 🎉 Merged PR [#3](https://github.com/indravoyager/xidown/pull/3) in [indravoyager/xidown](https://github.com/indravoyager/xidown)
+4. 🗣 Commented on [#3](https://github.com/indravoyager/xidown/pull/3#issuecomment-4840630871) in [indravoyager/xidown](https://github.com/indravoyager/xidown)
+5. 🗣 Commented on [#3](https://github.com/indravoyager/xidown/pull/3#issuecomment-4840165956) in [indravoyager/xidown](https://github.com/indravoyager/xidown)
+6. 💪 Opened PR [#3](https://github.com/indravoyager/xidown/pull/3) in [indravoyager/xidown](https://github.com/indravoyager/xidown)
+7. 🗣 Commented on [#2](https://github.com/indravoyager/xidown/pull/2#issuecomment-4800585585) in [indravoyager/xidown](https://github.com/indravoyager/xidown)
+8. 🎉 Merged PR [#2](https://github.com/indravoyager/xidown/pull/2) in [indravoyager/xidown](https://github.com/indravoyager/xidown)
+9. 🗣 Commented on [#2](https://github.com/indravoyager/xidown/pull/2#issuecomment-4800662358) in [indravoyager/xidown](https://github.com/indravoyager/xidown)
+10. 💪 Opened PR [#2](https://github.com/indravoyager/xidown/pull/2) in [indravoyager/xidown](https://github.com/indravoyager/xidown)
 <!--END_SECTION:activity-->
 
 </details>

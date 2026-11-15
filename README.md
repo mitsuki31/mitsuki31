@@ -98,16 +98,16 @@ _**Even if you fail a thousand times, it doesn't mean you'll fail at everything.
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/3) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
-2. ℹ️ Labeled PR [#3](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/3) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
-3. 💪 Opened PR [#3](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/3) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
-4. ℹ️ Assigned PR [#3](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/3) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
-5. 🚀 Published release [v0.2.0](https://github.com/mitsuki31/json2ts/releases/tag/v0.2.0) in [mitsuki31/json2ts](https://github.com/mitsuki31/json2ts)
-6. 🎉 Merged PR [#1](https://github.com/mitsuki31/json2ts/pull/1) in [mitsuki31/json2ts](https://github.com/mitsuki31/json2ts)
-7. ℹ️ Labeled PR [#1](https://github.com/mitsuki31/json2ts/pull/1) in [mitsuki31/json2ts](https://github.com/mitsuki31/json2ts)
-8. ℹ️ Labeled PR [#1](https://github.com/mitsuki31/json2ts/pull/1) in [mitsuki31/json2ts](https://github.com/mitsuki31/json2ts)
-9. 💪 Opened PR [#1](https://github.com/mitsuki31/json2ts/pull/1) in [mitsuki31/json2ts](https://github.com/mitsuki31/json2ts)
-10. ℹ️ Assigned PR [#1](https://github.com/mitsuki31/json2ts/pull/1) in [mitsuki31/json2ts](https://github.com/mitsuki31/json2ts)
+1. 🗣 Commented on [#3](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/3#issuecomment-6892430175) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
+2. 🎉 Merged PR [#4](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/4) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
+3. ℹ️ Labeled PR [#4](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/4) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
+4. ℹ️ Labeled PR [#4](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/4) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
+5. 💪 Opened PR [#4](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/4) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
+6. ℹ️ Assigned PR [#4](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/4) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
+7. 🎉 Merged PR [#3](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/3) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
+8. ℹ️ Labeled PR [#3](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/3) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
+9. 💪 Opened PR [#3](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/3) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
+10. ℹ️ Assigned PR [#3](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/3) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
 <!--END_SECTION:activity-->
 
 </details>

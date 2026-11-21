@@ -98,16 +98,16 @@ _**Even if you fail a thousand times, it doesn't mean you'll fail at everything.
 <summary>⚡ Recent Activities</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.4.0 — Reimagined](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/releases/tag/v1.4.0) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
-2. 🗣 Commented on [#3](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/3#issuecomment-6892430175) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
-3. 🎉 Merged PR [#4](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/4) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
-4. ℹ️ Labeled PR [#4](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/4) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
-5. ℹ️ Labeled PR [#4](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/4) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
-6. 💪 Opened PR [#4](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/4) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
-7. ℹ️ Assigned PR [#4](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/4) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
-8. 🎉 Merged PR [#3](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/3) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
-9. ℹ️ Labeled PR [#3](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/3) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
-10. 💪 Opened PR [#3](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/3) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
+1. 🎉 Merged PR [#5](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/5) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
+2. ℹ️ Labeled PR [#5](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/5) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
+3. 💪 Opened PR [#5](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/5) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
+4. ℹ️ Assigned PR [#5](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/5) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
+5. 🚀 Published release [v1.4.0 — Reimagined](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/releases/tag/v1.4.0) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
+6. 🗣 Commented on [#3](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/3#issuecomment-6892430175) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
+7. 🎉 Merged PR [#4](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/4) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
+8. ℹ️ Labeled PR [#4](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/4) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
+9. ℹ️ Labeled PR [#4](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/4) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
+10. 💪 Opened PR [#4](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension/pull/4) in [mitsuki31/Discord-Web-Auto-Quest-Extension](https://github.com/mitsuki31/Discord-Web-Auto-Quest-Extension)
 <!--END_SECTION:activity-->
 
 </details>
